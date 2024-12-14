@@ -1,6 +1,9 @@
 var express=require("express")
 var db=require("./db.js")
 var bcrypt=require("bcrypt")
+var transporter=require("./mailer.js")
+console.log(mailer)
+
 var app=express()
 
 app.use(express.json())
