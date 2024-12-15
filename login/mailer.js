@@ -13,9 +13,10 @@ var transporter=nodemailer.createTransport({
         pass:"kdwa xjjl uqaf pyqm"
     }
 })
+
 var options={
     from:"karthikjinkala11@gmail.com",
-    to:"karthikjinkala11@gmail.com",
+    to:"karthikjinkala12@gmail.com",
     subject: 'Sending Email using Node.js',
     text: 'hi bro namaste!'
 }

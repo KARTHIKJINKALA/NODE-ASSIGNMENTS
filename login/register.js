@@ -1,8 +1,9 @@
 var express=require("express")
 var db=require("./db.js")
 var bcrypt=require("bcrypt")
-var transporter=require("./mailer.js")
-console.log(mailer)
+// var transporter=require("./mailer.js")
+const upload = require("./multer.js")
+// console.log(mailer)
 
 var app=express()
 
@@ -13,19 +14,21 @@ app.use(express.urlencoded({extended:true}))
 
 
 
-// app.post("/register",async(req,res)=>{
+app.post("/register",upload.single("profilepic"),async(req,res)=>{
+
+    console.log(req.file)
+
+    // var username=req.body.username
     
-//     var username=req.body.username
-//     // var password=req.body.password
+    // var password=req.body.password
 
 // var salt=10;
 // var hashed_password=await bcrypt.hash(req.body.password,salt)
 // console.log(hashed_password)
-    
 //     // Creating the table and inserting the values
 //     // var create="CREATE TABLE NODEASSIGN (USERNAME VARCHAR(20),PASSWORD VARCHAR(20))"
-//     var qinsert="INSERT INTO NODEASSIGN (USERNAME,PASSWORD) VALUES(?,?)"
-// db.query(qinsert,[username,hashed_password],(err,data)=>{
+//     var qinsert="INSERT INTO NODEASSIGN (USERNAME,PASSWORD,FILEPATH) VALUES(?,?)"
+// db.query(qinsert,[username,hashed_password,store_path],(err,data)=>{
 //     if(err){
 //         res.send(err.message)
 //     }
@@ -34,8 +37,8 @@ app.use(express.urlencoded({extended:true}))
 //     }
 
 // })
-//     // res.send("karthik jinkala")
-// })
+    // res.send("karthik jinkala")
+})
 
 
 
