@@ -19,9 +19,12 @@ const options = {
     from: "karthikjinkala11@gmail.com",
     to: "karthikjinkala12@gmail.com",
     subject: "Sending Email using Node.js",
-    text: "Hi bro namaste!"
+    text: `Your OTP is: ${otp}`
 };
 module.exports={transporter,options}
+
+
+
 
 // app.get("/gmail", (req, res) => {
 //     transporter.sendMail(options, (err, info) => {
