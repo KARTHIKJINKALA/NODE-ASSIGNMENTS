@@ -1,45 +1,39 @@
-var express=require("express")
-var nodemailer=require("nodemailer")
-// var dotenv=require("env")
+const express = require("express");
+const nodemailer = require("nodemailer");
+var otp=require("./otp.js")
+console.log(otp)
 
-var app=express()
+const app = express();
 
-var transporter=nodemailer.createTransport({
+const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
     port: 587,
     secure: false,
-    auth:{
-        user:"karthikjinkala11@gmail.com",
-        pass:"kdwa xjjl uqaf pyqm"
+    auth: {
+        user: "karthikjinkala11@gmail.com", // Replace with your email
+        pass: "kdwaxjjluqafpyqm" // Replace with your app password
     }
-})
+});
 
-var options={
-    from:"karthikjinkala11@gmail.com",
-    to:"karthikjinkala12@gmail.com",
-    subject: 'Sending Email using Node.js',
-    text: 'hi bro namaste!'
-}
+const options = {
+    from: "karthikjinkala11@gmail.com",
+    to: "karthikjinkala12@gmail.com",
+    subject: "Sending Email using Node.js",
+    text: "Hi bro namaste!"
+};
+module.exports={transporter,options}
 
+// app.get("/gmail", (req, res) => {
+//     transporter.sendMail(options, (err, info) => {
+//         if (err) {
+//             res.status(500).send(err.message);
+//         } else {
+//             res.send("Email sent successfully!");
+//         }
+//     });
+// });
 
-module.exports=transporter
-// app.get("/gmail",(req,res)=>{
-
-//     transporter.sendMail(options,(err,info)=>{
-//      if(err){
-//         res.send(err.message)
-//      }
-//      else{
-//         res.send(info)
-
-//      }
-//     })
-
-//     // res.send("karthik")
-// })
-// var port=3009
-// app.listen(port,()=>{
-//     console.log("Server has been started")
-// })
-
-// create register api using the form
+// const port = 3009;
+// app.listen(port, () => {
+//     console.log(`Server running on port ${port}`);
+// });
