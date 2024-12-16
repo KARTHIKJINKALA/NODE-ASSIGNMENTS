@@ -13,7 +13,7 @@ const transporter = nodemailer.createTransport({
     secure: false,
     auth: {
         user:"karthikjinkala11@gmail.com",
-        pass:"kdwa xjjl uqaf pyqm"// Replace with your app password
+        pass:process.env.G_KEY// Replace with your app password
     }
 });
 
