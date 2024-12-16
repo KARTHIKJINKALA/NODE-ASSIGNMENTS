@@ -1,5 +1,7 @@
 const express = require("express");
 const nodemailer = require("nodemailer");
+var dotenv=require('dotenv').config()
+
 var otp=require("./otp.js")
 console.log(otp)
 
@@ -7,20 +9,21 @@ const app = express();
 
 const transporter = nodemailer.createTransport({
     host: "smtp.gmail.com",
-    port: 587,
+    port:587,
     secure: false,
     auth: {
-        user: "karthikjinkala11@gmail.com", // Replace with your email
-        pass: "kdwaxjjluqafpyqm" // Replace with your app password
+        user:"karthikjinkala11@gmail.com",
+        pass:"kdwa xjjl uqaf pyqm"// Replace with your app password
     }
 });
 
 const options = {
     from: "karthikjinkala11@gmail.com",
-    to: "karthikjinkala12@gmail.com",
+    to: "ettamharinadhan@gmail.com",
     subject: "Sending Email using Node.js",
     text: `Your OTP is: ${otp}`
 };
+
 module.exports={transporter,options}
 
 

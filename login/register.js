@@ -2,6 +2,8 @@ var express = require("express");
 var db = require("./db.js");
 var bcrypt = require("bcrypt");
 const upload = require("./multer.js");
+var dotenv=require('dotenv').config()
+
 
 var { transporter, options } = require("./mailer.js");
 
@@ -42,6 +44,7 @@ app.post("/register", upload.single("profilepic"), async (req, res) => {
     emp += options.text[i];
   }
   // console.log(emp)
+
   // reversing for original otp
   var OTP = [];
   for (j = emp.length - 1; j >= 0; j--) {
@@ -61,6 +64,7 @@ app.post("/register", upload.single("profilepic"), async (req, res) => {
     (err, data) => {
       if (err) {
         res.send(err.message);
+        
       } else {
         res.send("Register succesfull");
       }
@@ -68,6 +72,9 @@ app.post("/register", upload.single("profilepic"), async (req, res) => {
   );
   // res.send("karthik jinkala")
 });
+
+
+
 
 // for login
 
@@ -107,7 +114,8 @@ app.post("/login", (req, res) => {
     }
   });
 });
-var port = 3005;
+var port = 3005
 app.listen(port, () => {
+  console.log(process.env.REG_PORT)
   console.log("Server has been started succesfully");
 });

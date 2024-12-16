@@ -1,12 +1,27 @@
 var mysql=require("mysql2")
+require('dotenv').config()
 
-var connection=mysql.createConnection({
-    host:"localhost",
-    port:3306,
-    user:"root",
-    password:"5555",
-    database:"practice"
-})
+// var connection=mysql.createConnection({
+//     host:"localhost",
+//     user:"root",
+//     password:12345,
+//     database:"practice"
+// })
+
+console.log({
+    DB_HOST:process.env.DB_HOST,
+    DB_USER:process.env.DB_USER,
+    DB_PASSWORD:process.env.DB_PASSWORD,
+    DB_NAME:process.env.DB_NAME,
+});
+
+const connection = mysql.createConnection({
+    host: process.env.DB_HOST,
+    user: process.env.DB_USER,
+    password: process.env.DB_PASSWORD,
+    database: process.env.DB_NAME,
+    // Optional, default is 3306
+});
 
 connection.connect((err)=>{
     if(err){
