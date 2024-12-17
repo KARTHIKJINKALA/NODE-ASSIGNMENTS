@@ -2,11 +2,10 @@
 var express=require("express")
 var app=express()
 var  fs=require("fs")
-
 var cors=require("cors")
-
-app.use(express.json())
+console.log(cors())
 app.use(cors())
+app.use(express.json())
 
 
 app.get("/products",(req,res)=>{
