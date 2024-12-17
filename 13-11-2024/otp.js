@@ -1,1 +1,8 @@
-// create an api to display student information as a response and api to send fakestore data as response
+function generateOTP() {
+    
+    return Math.floor(1000 + Math.random() * 9000);
+}
+
+const otp = generateOTP();
+
+module.exports=otp
