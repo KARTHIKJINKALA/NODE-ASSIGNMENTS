@@ -3,6 +3,9 @@ var db = require("./db.js");
 var bcrypt = require("bcrypt");
 const upload = require("./multer.js");
 var dotenv=require('dotenv').config()
+var cors=require("cors")
+
+app.use(cors())
 
 
 var { transporter, options } = require("./mailer.js");
@@ -13,6 +16,7 @@ var app = express();
 
 app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
+
 
 app.post("/register", upload.single("profilepic"), async (req, res) => {
   //For storing the username

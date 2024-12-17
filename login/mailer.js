@@ -24,6 +24,7 @@ const options = {
     text: `Your OTP is: ${otp}`
 };
 
+
 module.exports={transporter,options}
 
 
