@@ -13,6 +13,8 @@
     "node": "^23.4.0",
     "nodemailer": "^6.9.16",
     "nodemon": "^3.1.9",
-    "package.json": "^2.0.1"
+    "package.json": "^2.0.1",
+    "react-native-paper": "^5.12.5",
+    "yet": "^0.1.0"
   }
 }
