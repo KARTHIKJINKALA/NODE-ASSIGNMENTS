@@ -16,7 +16,8 @@ app.get("/products",(req,res)=>{
            res.send( err.message)
         }
         else{
-            res.send(JSON.parse(data))
+            // console.log(data)
+            res.send(data)
         }
     })
 
