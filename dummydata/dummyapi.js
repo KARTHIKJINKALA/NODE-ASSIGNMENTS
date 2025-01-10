@@ -3,12 +3,13 @@ var express=require("express")
 var app=express()
 var  fs=require("fs")
 var cors=require("cors")
-console.log(cors())
+// console.log(cors())
+
 app.use(cors())
 app.use(express.json())
 
 
-app.get("/products",(req,res)=>{
+app.get("/",(req,res)=>{
 
 
     fs.readFile("./haridata.json","utf-8",(err,data)=>{

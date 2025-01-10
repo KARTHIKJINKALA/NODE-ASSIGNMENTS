@@ -16,13 +16,13 @@ var storagedata=multer.diskStorage({
 
 var upload=multer({storage:storagedata,
     limits:{
-         fileSize:1.5*1024*1024 //1.5MB
+         fileSize:1.5*1024*1024 
     },
     fileFilter:(req,file,cb)=>{
         console.log(file)
 
         const allowedmimes=["image/jpg","image/png","image/jpeg"]
-        // const filesize
+     
         if(allowedmimes.includes(file.mimetype)){
             cb(null,true)
         }
