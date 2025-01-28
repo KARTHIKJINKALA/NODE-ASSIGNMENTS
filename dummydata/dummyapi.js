@@ -12,7 +12,7 @@ app.use(express.json())
 app.get("/",(req,res)=>{
 
 
-    fs.readFile("./haridata.json","utf-8",(err,data)=>{
+    fs.readFile("./duummy.json","utf-8",(err,data)=>{
         if(err){
            res.send( err.message)
         }
