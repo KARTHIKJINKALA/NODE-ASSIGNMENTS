@@ -24,19 +24,45 @@ const postsSchema=new mongoose.Schema({
     age:Number,
     email:String
 })
-const postModel=mongoose.model("Posts",postsSchema)
+const postModel=mongoose.model("posts",postsSchema)
 
-// app.get("/posts",async(req,res)=>{
-//   try{
-//     let Out=await postModel.find()
-//     console.log(Out)
-//     res.send(Out)
-//   }
-//   catch(error){
-//     res.status(500).send(err)
-//   }
+app.get("/posts",async(req,res)=>{
+  try{
+    let Out=await postModel.find()
+    console.log(Out)
+    res.send(Out)
+  }
+  catch(error){
+    res.status(500).send(err)
+  }
 
-// })
+})
+
+app.post("/posts",async(req,res)=>{
+    console.log(req.body)
+
+    let newPost=new postModel({
+        "name":req.body.name,
+        "age":req.body.age,
+        "email":req.body.email
+    })
+
+    await newPost.save()
+    res.send("data posted succesfully")
+
+})
+//we have the two method to insert the data into the mongodb one is save method and another one is create method
+
+app.post("/posts1",async(req,res)=>{
+    // console.log(req.body)
+    let data=req.body
+    console.log(data)
+
+    let post=await postModel.create(data)
+    res.send("posted succesfully")
+
+
+})
 
 
 app.post("/users",async(req,res)=>{
@@ -44,8 +70,9 @@ app.post("/users",async(req,res)=>{
 
     let newUser= new userModel({
         "name":req.body.name,
-        "age":req.body.age,
-        "email":req.body.email
+        "salary":req.body.salary,
+        "present_age":req.body.age,
+        "city":req.body.city
     })
 
     await newUser.save()
