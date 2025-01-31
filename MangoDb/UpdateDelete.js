@@ -40,15 +40,39 @@ if(result){
 else{
     res.end(error.message)
 }
+})
 
+// app.delete("/users_name/:name",async(req,res)=>{
+//     var result=await userModel.deleteOne(req.params)
+//     console.log(req.params)
+//     // res.send("hello")
+//     console.log(result)
 
+//     if(result.deletedCount>0){
+//         res.send("One Item Is Deleted Succesfully")
+//     }
+//     else{
+//         res.send("Not deleted")
+//     }
 
-// console.log(req.body)
+// })
+
+app.delete("/users_name/:age",async(req,res)=>{
+      console.log(req.params)
+    
+    let result=await userModel.deleteMany({present_age:req.params.age})
+    console.log(result)
+    if(result.deletedCount>0){
+        res.send(`Many items deleted with age:${req.params.age}`)
+    }
+    else{
+        res.send("No deleted the items")
+    }
 
 })
 
 const port=3006
 
 app.listen(port,()=>{
-    console.log("Server has been satrted succesfully")
+    console.log("Server has been started succesfully")
 })
