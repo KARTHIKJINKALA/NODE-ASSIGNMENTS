@@ -5,8 +5,14 @@
         "image":"https://b.zmtcdn.com/data/pictures/1/18808521/bb30043de93f300d6315fc246f2fa62b.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"Nexus Hyderabad, Kukatpally, Hyderabad",
         "rating":{
-            "food":"excellent",
-            "service":"good"
+            "food":[
+                
+                    "An exquisite dining experience with authentic Hyderabadi flavors. The biryani was exceptional, and the service was impeccable.",
+                    "A great place to unwind with friends. The ambiance is lively, and the North Indian dishes are flavorful.",
+                    "Authentic Italian cuisine with a modern twist. The pasta was cooked to perfection, and the desserts were delightful."
+                
+            ],
+            "service": "3.9"
         },
         "dinein":{
             "tablebooking":[
@@ -22,14 +28,19 @@
         },
         "timings":"10am-11pm"
     },
+
     {
         "id":2,
         "name":"",
         "image":"https://b.zmtcdn.com/data/pictures/8/20532598/7e384febfa5e814c79a981c7709202df.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"Madhapur, Hyderabad",
         "rating":{
-            "food":"excellent",
-            "service":"good"
+            "food":[
+                "A serene atmosphere with a diverse menu. The sushi was fresh, and the Thai curry had a perfect balance of flavors.",
+    "A cozy spot with an extensive menu. The continental dishes were well-prepared, and the beverages were refreshing.",
+    "The barbecue options here are fantastic! The meats were well-marinated and grilled to perfection."
+            ],
+            "service":"3.5"
         },
         "dinein":{
             "tablebooking":[
@@ -51,8 +62,12 @@
         "image":"https://b.zmtcdn.com/data/pictures/4/19274764/be46bd469d6c8f788c8bf08c4ce05977.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"PNR Empire, Kukatpally, Hyderabad",
         "rating":{
-            "food":"excellent",
-            "service":"nice"
+            "food":[
+                "A perfect destination for a romantic dinner. The candlelit setup added to the charm.",
+                "A vibrant cafe with great coffee and pastries. Perfect for a quick bite and casual hangout.",
+                "Service was a bit slow, but the food was delicious and worth the wait."
+            ],
+            "service":"3.9"
         },
         "dinein":{
             "tablebooking":[
@@ -74,8 +89,12 @@
         "image":"https://b.zmtcdn.com/data/pictures/8/20357948/3143716ae6d4a35db93a9f60096d3e16.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"Kondapur, Hyderabad",
         "rating":{
-            "food":"good",
-            "service":"awesome"
+            "food":[
+                "Great selection of vegetarian dishes. The flavors were rich and authentic.",
+                "I loved the desserts here! The cheesecake was the highlight of the meal.",
+                "The buffet spread was impressive, offering a variety of cuisines to choose from."
+            ],
+            "service":"4.5"
         },
         "dinein":{
             "tablebooking":[
@@ -97,8 +116,13 @@
         "image":"https://b.zmtcdn.com/data/pictures/8/20247938/7ddcf8d3c4417adf50ff1210aed295a7.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"PNR Empire, Kukatpally, Hyderabad",
         "rating":{
-            "food":"brilliant",
-            "service":"very good"
+            "food":[
+                "Overpriced for the portion sizes, but the ambiance makes up for it.",
+                "Loved the rooftop dining experience! The view of the city was breathtaking.",
+                "An absolute must-visit for seafood lovers. The prawns were fresh and cooked perfectly.",
+                "Family-friendly restaurant with a great kids’ menu and spacious seating."
+            ],
+            "service":"3.8"
         },
         "dinein":{
             "tablebooking":[
@@ -120,8 +144,13 @@
         "image":"https://b.zmtcdn.com/data/pictures/9/21182679/17f72a6d86f9f0cfce6eea38b4d935f1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"Kothaguda, Hyderabad",
         "rating":{
-            "food":"it was very tasty",
-            "service":"awesome"
+            "food":[
+                "The spicy curries here are to die for! Perfectly balanced flavors.",
+    "Decent food, but the waiting time was longer than expected.",
+    "Great concept, but the execution could be better. Some dishes were a hit, others were a miss.",
+    "Traditional South Indian breakfast was spot on! Fresh and flavorful."
+            ],
+            "service":"3.0"
         },
         "dinein":{
             "tablebooking":[
@@ -130,7 +159,7 @@
             "noof guests":"5"
         },
         "takeaway":"yes",
-        "prepaid":"",
+        "prepaid":"available",
         "offers":"33%",
         "menu":{
             "image":"https://b.zmtcdn.com/data/menus/679/21182679/3b722d2af109ca7e1f4c7802c88070de.jpg"
@@ -143,8 +172,13 @@
         "image":"https://b.zmtcdn.com/data/pictures/9/21691069/a80dcd133d8fdf1e0a7a974370c3fdc9.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"Film Nagar, Hyderabad",
         "rating":{
-            "food":"excellent",
-            "service":"good"
+            "food":[
+                "Amazing experience with live music. A perfect place for weekend dinners.",
+    "I was disappointed with the portion sizes, but the flavors were great.",
+    "A hidden gem in the city! The flavors were authentic, and the presentation was top-notch.",
+    "Best biryani in town! The aroma and taste were simply unbeatable."
+            ],
+            "service":"4.0"
         },
         "dinein":{
             "tablebooking":[
@@ -165,8 +199,12 @@
         "image":"https://b.zmtcdn.com/data/pictures/7/21599787/4ad6d9ecb2060aba503525738719a2b4.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
         "location":"Manikonda, Hyderabad",
         "rating":{
-            "food":"excellent",
-            "service":"good"
+            "food":[
+                "A great choice for health-conscious diners. Fresh salads and organic options available.",
+    "I wasn’t a fan of the decor, but the food and service were excellent.",
+    "A fantastic brunch spot! The pancakes were fluffy, and the coffee was strong."
+            ],
+            "service":"4.1"
         },
         "dinein":{
             "tablebooking":[
@@ -188,8 +226,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/0/20236950/c3b56c59b2fcfd3d293713ce2e0c9f07.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Hitech City, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "One of the best fine-dining experiences I’ve had. The staff was extremely attentive.",
+                    "A great place for group dining. The platters were generous and well-prepared.",
+                    "Loved the fusion dishes! A creative twist on traditional favorites."
+                ],
+                "service":"4.3"
             },
             "dinein":{
                 "tablebooking":[
@@ -210,8 +252,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/0/21097260/a796d3b9cebefb93b19eaf565276adf8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Preston Prime Mall,Gachibowli, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "A bit too noisy for my liking, but the food made up for it.",
+    "Exceptional service! The staff went above and beyond to accommodate us.",
+    "Not the best value for money, but a good spot for a fancy dinner."
+                ],
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -232,8 +278,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/2/21036992/26e9cb633abf38eda8102fff2ff3a1d5.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "A delightful bakery with fresh croissants and artisanal bread.",
+    "The mocktails here are a must-try! Refreshing and perfectly mixed.",
+    " A pleasant cafe with a calm and cozy atmosphere. Great for work or study."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -254,8 +304,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/7/20984037/e94340c55c0070a1e85d141a332ecfc0.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The tandoori dishes here were outstanding. Smoky, flavorful, and well-cooked.",
+                    "I wasn’t a fan of the spice level, but my friends loved it!",
+                    "Simple yet flavorful meals. Great for a quick and satisfying lunch."
+                ],
+                "service":"4.1"
             },
             "dinein":{
                 "tablebooking":[
@@ -276,8 +330,13 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/8/18752268/74d8385b6d3415f76ac91e361c47d9db.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "An elegant dining experience. The plating and presentation were impeccable.",
+    "The dosa here is crispy and delicious! Authentic South Indian flavors.",
+    "A bustling place with good food but quite crowded during weekends.",
+    "Had an amazing time! The desserts were the highlight of my meal."
+                ],
+                "service":"4.2"
             },
             "dinein":{
                 "tablebooking":[
@@ -298,8 +357,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/0/18423520/eda2b1dce1ea5b11e96691b8ff3e84b5.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The wait time was long, but the biryani was absolutely worth it.",
+    "Loved the combination of flavors in their signature dishes.",
+    "Great for late-night cravings! The food was fresh even at midnight."
+                ],
+                "service":"4.4"
             },
             "dinein":{
                 "tablebooking":[
@@ -320,8 +383,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/1/18586521/296845242ea43bdaa3cf61277749e1fe.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "A trendy spot with a great selection of drinks and small plates.",
+    "The pizza was wood-fired to perfection! Fresh ingredients and crispy crust.",
+    "Not the best place for a quiet dinner, but good for a casual hangout."
+                ],
+                "service":"4.9"
             },
             "dinein":{
                 "tablebooking":[
@@ -342,8 +409,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/4/19173104/f3704598c336542166b781026fc5ad4b.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Ghansi Bazaar, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Very welcoming staff and a great selection of comfort food.",
+                    "The chocolate lava cake was divine! Would come back just for that.",
+                    "A bit pricey, but the ambiance and service make it worthwhile."
+                ],
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -364,8 +435,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/4/20876424/968026f89b5d8e30fec3eb4e0ca1a571_o2_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "A must-visit for authentic Asian cuisine lovers! The flavors were spot on.",
+    "The shawarma here was juicy and packed with flavors."
+                ],
+                "service":"4.6"
             },
             "dinein":{
                 "tablebooking":[
@@ -386,8 +460,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/4/94424/b8288fa512c122aa9f244e2f6736235c.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Himayath Nagar, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The sushi rolls were fresh and had a nice balance of flavors.",
+    "I loved the use of fresh herbs and spices in the dishes."
+                ],
+                "service":"3.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -408,8 +485,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/5/18613825/09357304b71e0a3180cf7c9c2863b86a.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The menu has a great variety, but some items were unavailable.",
+                    "A fantastic culinary experience. Every dish was crafted with care.",
+                    "A vibrant place with lively music and a youthful vibe"
+                ],
+                "service":"3.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -430,8 +511,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/6/91816/cb27bfb7a104d45b67908693052da8e1.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"ITC Kakatiya, Begumpet, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Service was slow, but the food made up for the wait.",
+    "One of the best burgers in town! Juicy patty and fresh toppings."
+                ],
+                "service":"4.1"
             },
             "dinein":{
                 "tablebooking":[
@@ -452,8 +536,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/5/20961945/868726d7c9fc5eff5bf092ceffd639e1.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Loved the ambiance, the rooftop dining experience was fantastic.",
+                    "The pizza was perfectly baked with a crispy crust and generous toppings.",
+                    "A cozy little café with great coffee and delicious pastries."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -474,8 +562,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/3/19718093/ca9826cba5d3c9eeede43b6f5ea2b4fa.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Natu kodi pulusu had the perfect mix of spices, rich and flavorful, a true Andhra specialty.",
+                    "Royyala iguru (prawn curry) was perfectly spiced, fresh, and mouthwatering.",
+                    "The Telangana-style mutton curry was rich and tender, cooked with just the right amount of heat."
+                ],
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -496,8 +588,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/6/90896/77c0a452e8ac21b0259eae6d1d770078.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"RTC X roads, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Hyderabadi mutton biryani was aromatic, flavorful, and the mutton was tender, a must-try for biryani lovers.",
+                    "Gongura chicken was spicy and tangy, just like traditional Andhra-style cooking.",
+                    "The Andhra-style fish fry was crispy outside, tender inside, with bold spices."
+                ],
+                "service":"4.6"
             },
             "dinein":{
                 "tablebooking":[
@@ -518,8 +614,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/1/20697201/185346532e1ed5bcec6a9a87d871106e.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The spicy chicken fry from Rayalaseema had bold flavors and perfect crispiness.",
+                    "The Andhra-style chicken kebabs were juicy, tender, and spiced just right.",
+                    "The fish moilee was creamy, tangy, and packed with flavor"
+                ],
+                "service":"4.8"
             },
             "dinein":{
                 "tablebooking":[
@@ -540,8 +640,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/0/92020/59c8017cd1993fd9c669390aa1bcf13c_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Abids, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The mutton keema was spicy and cooked with all the traditional spices, rich in flavor.",
+                    "Natu kodi fry (country chicken) had smoky flavors and was crispy on the outside and juicy inside.",
+                    "The Andhra-style mutton fry was deep-fried, spicy, and full of flavor."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -562,8 +666,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/9/91999/84b999031b73e6bfa67ea737f961d0d3.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Charminar Area, Charminar, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Telangana-style chicken gravy had a smoky aroma and deep flavor, perfect with hot rice.",
+                    "The spicy prawn curry was bursting with flavor, and the prawns were fresh and succulent.",
+                    "The mutton biryani here was aromatic, flavorful, and had a generous amount of tender mutton."
+                ],
+                "service":"4.8"
             },
             "dinein":{
                 "tablebooking":[
@@ -584,8 +692,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/3/92693/ef24e122c0b9b8fa31f62635d2b262a1.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Panjagutta, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The Hyderabadi biryani was fragrant and flavorful, with perfectly cooked mutton that just melted in my mouth.",
+    "Nihari was rich, tender, and full of spices, truly authentic Hyderabadi flavors.",
+    "The pathar ka gosht was grilled to perfection, smoky and juicy, with bold spices that took me straight to the streets of Hyderabad."
+                ],
+                "service":"4.9"
             },
             "dinein":{
                 "tablebooking":[
@@ -606,8 +718,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/0/93000/a51b1d2b061c80e874c8ebcf92c8a1cc.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Banjara Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The Hyderabadi haleem was thick, flavorful, and absolutely divine, especially during the Ramadan season.",
+                    "Hyderabadi chicken fry was crispy on the outside, juicy on the inside, with the perfect blend of spices.",
+                    "The dum ke mutton was so tender, falling off the bone, with a delicious gravy that was rich and aromatic."
+                ],
+                "service":"3.8"
             },
             "dinein":{
                 "tablebooking":[
@@ -628,8 +744,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/7/91677/57a29f9d1a74d0eca24b492351a15c27.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Hyderabadi, Mughlai",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The Hyderabadi fish fry had a crispy crust and was perfectly seasoned with the traditional masalas.",
+                    "The mutton keema samosas were crunchy on the outside, filled with a spicy, flavorful keema mixture.",
+                    "The chicken biryani was fragrant and spicy, with tender pieces of chicken perfectly infused with the spices."
+                ],
+                "service":"3.9"
             },
             "dinein":{
                 "tablebooking":[
@@ -650,8 +770,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/4/19173104/f3704598c336542166b781026fc5ad4b.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Ghansi Bazaar, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Kebabs from the old city were perfectly grilled, smoky, and juicy, served with naan and mint chutney.",
+                    "The Hyderabadi chicken kebab had a tender texture with spices that lingered just the right amount.",
+                    "The Hyderabadi mutton korma was rich, creamy, and full of bold flavors, a true Hyderabad signature dish."
+                ],
+                "service":"3.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -672,8 +796,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/6/92136/c7b75d4ad0fabdc61a9b0a8bab46881d.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Charminar, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The raan (whole leg of mutton) was roasted to perfection with a tender, smoky flavor that was irresistible.",
+    "The tandoori chicken was perfectly marinated, charred just right, and had a deep smoky flavor.",
+    "Mutton do pyaaza was loaded with caramelized onions and rich flavors, an authentic Hyderabadi treat."
+                ],
+                "service":"4.9"
             },
             "dinein":{
                 "tablebooking":[
@@ -694,8 +822,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/2/92622/9f2c1a67bc8c0957f4d53f63a9dde09c_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The mutton biryani was an explosion of flavors, every grain of rice was infused with spices, and the mutton was so tender.",
+                    "Hyderabadi chicken curry had a rich gravy, the chicken was juicy and cooked perfectly in the spicy broth.",
+                    "The mutton seekh kebabs were grilled to perfection with a crispy outer layer and juicy, tender meat inside."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -717,8 +849,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/6/94286/cddf8893dc7c751506af12007b3314c2_featured_v2.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Gachibowli, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The Hyderabadi chicken shawarma was packed with flavor, with perfectly seasoned chicken and soft pita bread.",
+                    "Nihari was hearty and satisfying, the tender beef fell apart with a fork and was rich with aromatic spices.",
+                    "Mutton raan was tender and juicy, the spices deeply infused, making it a perfect dish for a special occasion."
+                ],
+                "service":"4.3"
             },
             "dinein":{
                 "tablebooking":[
@@ -740,8 +876,12 @@
             "image":"https://b.zmtcdn.com/data/reviews_photos/a86/b085ca3284ca06b582c4991e79061a86_1582652939.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Gachibowli, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The Hyderabadi gosht ka salan was spicy and tangy, a great complement to the fluffy biryani.",
+                    "The tandoori chicken was perfectly charred, smoky, and flavorful with a wonderful balance of spices.",
+                    "The Hyderabadi chicken biryani had an impeccable balance of spices, and the chicken was incredibly soft and juicy."
+                ],
+                "service":"4.1"
             },
             "dinein":{
                 "tablebooking":[
@@ -763,8 +903,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/3/20807613/9b2cfb1b6e3b622344e6f8f3424a6335.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Tolichowki, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Hyderabadi grilled fish had a smoky flavor and was tender with a crispy exterior. A perfect appetizer.",
+    "The chicken pakoda had a crispy golden coating with succulent chicken pieces inside, flavored to perfection.",
+    "The Hyderabadi mutton korma had an aromatic, rich gravy that paired beautifully with naan and rice."
+                ],
+                "service":"4.1"
             },
             "dinein":{
                 "tablebooking":[
@@ -786,8 +930,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/3/19500123/bf94b54b371230047b82db07c940d521.jpeg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Madhapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The mutton shami kebabs were soft, flavorful, and melt-in-your-mouth tender, great with a dash of mint chutney.",
+                    "The chicken tandoori was smoky, juicy, and had the perfect amount of spice, leaving a delightful aftertaste.",
+                    "Hyderabadi gosht biryani was layered with tender pieces of meat and perfectly cooked rice, an absolute treat"
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -809,8 +957,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/9/20975349/2605ab53b842630a6795f9f7b1a0af84.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The chicken jalfrezi was vibrant, with chunks of chicken cooked in a tangy, spicy tomato-based sauce.",
+                    "Hyderabadi chicken kebabs were crispy on the outside and juicy on the inside, bursting with spices.",
+                    "Mutton keema samosas were stuffed with a deliciously spicy keema filling, perfect for a snack or appetizer."
+                ],
+                "service":"4.3"
             },
             "dinein":{
                 "tablebooking":[
@@ -832,8 +984,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/1/20595971/3f5590b54458d5a67fec1ee5afe36740.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Madhapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Hyderabadi mutton kofta curry had tender meatballs in a rich and flavorful gravy, ideal with flatbread.",
+                    "The Hyderabadi prawn curry was fresh and flavorful, with the perfect blend of spices and a hint of tanginess.",
+                    "The chicken 65 had a crispy, spicy exterior and tender juicy chicken on the inside, with the perfect amount of heat."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
@@ -855,8 +1011,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/3/19349823/ca5393ed3c2e227e5947b13935efe893.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Madhapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Mutton malai kebabs were indulgent, rich in flavor, and delicately charred for the perfect texture.",
+    "The prawn masala was tangy, spicy, and absolutely delicious, made with fresh, tender prawns."
+                ],
+                "service":"3.8"
             },
             "dinein":{
                 "tablebooking":[
@@ -878,8 +1037,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/2/91662/651b69964e2fbade94d28221d854aed5.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Paradise Circle, Secunderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Mutton Hyderabadi Biryani: The mutton was incredibly tender, soaked in rich spices, and paired perfectly with fragrant basmati rice.",
+    "Chicken Hyderabadi Biryani: Juicy chicken marinated in yogurt and spices, cooked to perfection with aromatic rice and a delicious fragrance.",
+    "Vegetarian Hyderabadi Biryani: A wonderful mix of fresh vegetables, fragrant rice, and subtle spices, with saffron adding a rich flavor."
+                ],
+                "service":"4.6"
             },
             "dinein":{
                 "tablebooking":[
@@ -901,8 +1064,11 @@
             "image":"",
             "location":"Masab Tank, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The mutton biryani had tender, marinated meat cooked to perfection with spices that enriched every layer of rice.",
+    "The chicken biryani had juicy chicken cooked with fragrant rice, aromatic spices, and a perfect level of heat."
+                ],
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -924,8 +1090,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/5/92155/9035f0810c1bafee1acab0cf13c6a478.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Koti, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Awsome cultets and panipuries",
+                    "Excellent Icecreams"
+                ],
+                "service":"4.8"
             },
             "dinein":{
                 "tablebooking":[
@@ -943,58 +1112,67 @@
         },
         {
             "id":43,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Brick & Branch",
+            "image":"https://b.zmtcdn.com/data/pictures/7/21629447/cc76f9c6253bbe86eba4a244bafbebee.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Gachibowli, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                      "The ambiance of the restaurant was exquisite, with a modern yet timeless feel. The service was impeccable, and the food was a masterpiece of flavors.",
+    "A perfect dining experience! The restaurant offers a refined atmosphere, and every dish served was a harmonious blend of creativity and taste."
+                ],
+                "service":"3.6"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"5"
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"12%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/447/21629447/3151d8bb4818963b3dc006cf9d2d6934.png"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-12pm"
         },
         {
             "id":44,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Noya - Avasa Hotels",
+            "image":"https://b.zmtcdn.com/data/pictures/5/19521825/d8dfc5ff29c007755610e204bb67da1f.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Hotel Avasa, Hitech City, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                     "The restaurant exudes class with its chic decor and attentive service. Every dish felt like a work of art, bursting with fresh, seasonal flavors.",
+    "An exceptional dining experience! The atmosphere was inviting and sleek, and the food exceeded expectations with every course."
+                ],
+                "service":"4.4"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"5"
             },
             "takeaway":"yes",
-            "prepaid":"not-available",
-            "offers":"25%",
+            "prepaid":"available",
+            "offers":"26%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/825/19521825/fb9d55dedf5fc2dd17146d89287ef49e.jpeg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-12pm"
         },
         {
             "id":45,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Citrus Cafe - Lemon Tree Hotel",
+            "image":"https://b.zmtcdn.com/data/reviews_photos/0dd/023e2c380a637cf210dc78582735f0dd_1535650535.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Lemon Tree Hotel, Gachibowli, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                        "A stylish, upscale restaurant with a great vibe. The menu was adventurous, and every dish had unique flavors that kept us coming back for more.",
+    "A blend of modern elegance and culinary excellence. The service was attentive, and the food presentation was flawless."
+                ],
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -1004,43 +1182,51 @@
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"18%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/158/97158/91f11b55eefa85eb55c67bb438d0806c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"9am-10pm"
         },
         {
             "id":46,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Oakleaf: Oakwood Residence Kapil",
+            "image":"https://b.zmtcdn.com/data/pictures/4/97864/b5cbda36a2de848d2e115492f92af3e1.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Financial District, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "This restaurant’s contemporary style is only rivaled by its incredible food. Each bite was an unforgettable experience, and the atmosphere added to the delight.",
+    "From the sophisticated decor to the amazing flavors, this place is a top contender for a special night out. The service is refined and friendly.",
+    "The restaurant's contemporary style and world-class cuisine make it a standout in the city. Every course was expertly prepared and beautifully presented."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"3"
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"34%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/864/97864/65f8ebf1d318378f4fc4861cdd805114.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-12pm"
         },
         {
             "id":47,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Renao Cafe & Bistro",
+            "image":"https://b.zmtcdn.com/data/pictures/2/20459362/2cb2c48df2fa742ca08c1126b59923f9.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Madhapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The atmosphere was elegant, and the food was an experience in itself. Every dish had the perfect balance of flavor, texture, and presentation.",
+                    "A perfect spot for a special evening. The ambiance is sophisticated, and the food feels like a journey through culinary creativity.",
+                    "If you're looking for a place to impress, this is it! Stylish interiors, exquisite presentation, and deliciously complex dishes"
+                ],
+                "service":"4.3"
             },
             "dinein":{
                 "tablebooking":[
@@ -1048,45 +1234,53 @@
                 ],
                 "noof guests":"4"
             },
-            "takeaway":"yes",
-            "prepaid":"not-available",
-            "offers":"25%",
+            "takeaway":"no",
+            "prepaid":"available",
+            "offers":"35%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/362/20459362/776cf4c3925294ba30e1d8e2d731c0ec.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-4pm"
         },
         {
             "id":48,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Vikendi Gelato Kitchen",
+            "image":"https://b.zmtcdn.com/data/pictures/0/20052990/420dd0d821358f183db633e605aa565b.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The combination of tasteful design and sophisticated food makes this restaurant stand out. A must-visit for anyone seeking a refined dining experience.",
+    "From the elegant interiors to the expertly crafted dishes, this restaurant is a perfect balance of style and substance.",
+    "The food here is exquisite, and the stylish atmosphere only enhances the dining experience. Truly a perfect night out."
+                ],
+                "service":"3.8"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"5"
             },
             "takeaway":"yes",
-            "prepaid":"not-available",
-            "offers":"25%",
+            "prepaid":"available",
+            "offers":"29%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/990/20052990/d12103a2032bd8bbb670a91098cc049d.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-6pm"
         },
         {
             "id":49,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Fondof Coffee Lounge",
+            "image":"https://b.zmtcdn.com/data/pictures/5/21197375/e6109d5b5b062051f6aa3e7d695c6f2d.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "Everything about this place, from the chic decor to the creative menu, was top-notch. The service was as polished as the surroundings.",
+                    "A perfect restaurant for a chic, upscale experience. The combination of great food, elegant design, and attentive service makes it stand out.",
+                    "A luxurious dining experience! The restaurant's stylish decor pairs beautifully with the exceptional food and impeccable service."
+                ],
+                "service":"4.3"
             },
             "dinein":{
                 "tablebooking":[
@@ -1096,66 +1290,78 @@
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"15%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/375/21197375/7f660ab13684b3224fcfe1654b2f57bc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"9am-9pm"
         },
         {
             "id":50,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"7 Sisters",
+            "image":"https://b.zmtcdn.com/data/pictures/4/19679644/0786cd87018789bca86cb5b4d57b73d6.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Kondapur, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The design of the restaurant was minimalist and modern, complementing the exquisite food. The service was top-notch, making the meal even more memorable.",
+    "The restaurant's contemporary, stylish vibe is paired with a menu that is both creative and delicious. The service is friendly yet professional.",
+    "The combination of trendy decor and luxurious flavors made this restaurant a delightful experience. The attention to detail in both food and service was impressive.",
+    "The sleek, modern atmosphere is paired with a menu full of bold, exciting flavors. Each dish had a story, and the service was outstanding."
+                ],
+                "service":"4.0"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"3"
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"17%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/644/19679644/efb4e810a79c55680e71d8d32ec9f60c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-10pm"
         },
         {
             "id":51,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Chubby Cho",
+            "image":"https://b.zmtcdn.com/data/pictures/5/18965675/8ce49fae35f04153ebef62f5c0aadcdc.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                     "From the beautiful design to the outstanding flavors, this restaurant knows how to combine luxury and comfort in the best way possible.",
+    "The food, the design, the service — everything about this restaurant is top tier. A wonderful place to enjoy sophisticated dining."
+                ],
+                "service":"4.1"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"3"
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"30%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/675/18965675/025d92a05f9b0b87036369bd5ebd4730.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-10pm"
         },
         {
             "id":52,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Exotica",
+            "image":"https://b.zmtcdn.com/data/pictures/4/19347494/05334cd18889b26dbf2f01b3aa039640.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Hitech City, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "A perfect spot for both food lovers and coffee enthusiasts. The dishes were beautifully presented, and the coffee served was rich and flavorful.",
+                    "The culinary experience here is enhanced by their exceptional coffee. From the appetizers to the mains, everything was flavorful, and the coffee brought the meal to another level.",
+                    "Food is top-notch! The fusion of flavors was balanced perfectly. Plus, the coffee was so aromatic and rich — an ideal pairing with the dessert."
+                ],
+                "service":"4.2"
             },
             "dinein":{
                 "tablebooking":[
@@ -1165,43 +1371,47 @@
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"35%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/744/90744/d38d6a7df9dccdcd0e20be4afd8c79c5.png?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-8pm"
         },
         {
             "id":53,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Dhaba - Estd 1986 Delhi",
+            "image":"https://b.zmtcdn.com/data/pictures/6/18385326/36b98643acf9882ef6793f21e2644345.jpg?output-format=webp&fit=around|300:273&crop=300:273;*,*",
+            "location":"Kondapur, Hyderabad",
             "rating":{
                 "food":"excellent",
-                "service":"good"
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"5"
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"30%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/326/18385326/1f9dbb849537119db385da9cf16e088c.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"8am-10pm"
         },
         {
             "id":54,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"The Grand Trunk Road",
+            "image":"https://b.zmtcdn.com/data/pictures/3/18313013/e18016fa4b68e4130a476714f8fa0946.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The food here is amazing, but the coffee stole the show. Smooth, well-balanced, and a perfect complement to the flavorful meals served.",
+    "Amazing food and coffee! The dishes are crafted with finesse, and the coffee is rich and smooth. It's the perfect place for a luxurious dining experience.",
+    "What an experience! The food was exceptional — well-seasoned and creatively prepared. The coffee, however, took the meal to the next level with its rich taste."
+                ],
+                "service":"4.2"
             },
             "dinein":{
                 "tablebooking":[
@@ -1211,20 +1421,20 @@
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"40%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/013/18313013/4c5dd4b31a73daa09de774de1a322fbc.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-9pm"
         },
         {
             "id":55,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"House Of Bagaara",
+            "image":"https://b.zmtcdn.com/data/pictures/6/20956166/2b11857dc6b4aed7b4a839c1b38c98ec.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Madhapur, Hyderabad",
             "rating":{
                 "food":"excellent",
-                "service":"good"
+                "service":"3.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -1236,32 +1446,36 @@
             "prepaid":"not-available",
             "offers":"25%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/166/20956166/6c56301aac850a1d3b5ceb7df1478099.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
             },
-            "timings":"10am-11pm"
+            "timings":"8am-9pm"
         },
         {
             "id":56,
-            "name":"",
-            "image":"",
-            "location":"",
+            "name":"Golden Dragon - Taj Krishna",
+            "image":"https://b.zmtcdn.com/data/pictures/9/91509/c10efd689bdc5748a0009c66df56c592.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+            "location":"Taj Krishna, Banjara Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "The chicken Biryani here is spicy and flavorful, cooked with authentic spices. Don't miss out on their traditional Irani chai — a perfect end to a delicious meal.",
+                    "The Hyderabadi Biryani here was fantastic! Each bite of the tender mutton was a burst of flavor, and the coffee served afterward was just as rich and robust.",
+                    "Had an unforgettable meal here. The mutton Biryani was packed with spices and flavor, and the coffee was the perfect way to end this flavorful feast.",
+                ],
+                "service":"5.0"
             },
             "dinein":{
                 "tablebooking":[
                     1,2,3,4,5
                 ],
-                "noof guests":"4"
+                "noof guests":"5"
             },
             "takeaway":"yes",
             "prepaid":"not-available",
-            "offers":"25%",
+            "offers":"15%",
             "menu":{
-                "image":""
+                "image":"https://b.zmtcdn.com/data/menus/509/91509/ca2116b1ed5e1afd99f30f4a27caf111.jpg"
             },
-            "timings":"10am-11pm"
+            "timings":"10am-10pm"
         },
         {
             "id":57,
@@ -1269,8 +1483,12 @@
             "image":"https://b.zmtcdn.com/data/pictures/7/96267/76f427dee9ad44d346bf240085e4c0ea.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
-                "service":"good"
+                "food":[
+                    "I was blown away by the richness of the Hyderabadi Biryani here. Tender, flavorful, and perfectly spiced, followed by a delicious cup of filter coffee to cap off the meal.",
+    "A place that truly brings out the flavors of Hyderabad. The Hyderabadi Biryani is spiced just right, and the coffee served here is the perfect end to a great meal.",
+    "The mutton Biryani here is pure perfection, with tender meat and flavorful rice. Don’t leave without trying their filter coffee, which was just as amazing."
+                ],
+                "service":"4.8"
             },
             "dinein":{
                 "tablebooking":[
@@ -1293,7 +1511,7 @@
             "location":"Ameerpet, Hyderabad",
             "rating":{
                 "food":"excellent",
-                "service":"good"
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
@@ -1316,7 +1534,7 @@
             "location":"S D Road, Secunderabad",
             "rating":{
                 "food":"excellent",
-                "service":"good"
+                "service":"4.4"
             },
             "dinein":{
                 "tablebooking":[
@@ -1339,7 +1557,7 @@
             "location":"Road 36, Jubilee Hills, Hyderabad",
             "rating":{
                 "food":"excellent",
-                "service":"good"
+                "service":"4.5"
             },
             "dinein":{
                 "tablebooking":[
