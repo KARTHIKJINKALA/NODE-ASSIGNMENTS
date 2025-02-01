@@ -1,0 +1,186 @@
+[
+    {
+        "id":1,
+        "name":"Krishnapatnam",
+        "image":"https://b.zmtcdn.com/data/pictures/1/18808521/bb30043de93f300d6315fc246f2fa62b.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"Nexus Hyderabad, Kukatpally, Hyderabad",
+        "rating":{
+            "food":"excellent",
+            "service":"good"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"2"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"25%",
+        "menu":{
+            "image":"https://b.zmtcdn.com/data/menus/521/18808521/35ec3805cc37618ecfb045b196e393be.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+        },
+        "timings":"10pm-11pm"
+    },
+    {
+        "id":2,
+        "name":"",
+        "image":"https://b.zmtcdn.com/data/pictures/8/20532598/7e384febfa5e814c79a981c7709202df.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"Madhapur, Hyderabad",
+        "rating":{
+            "food":"excellent",
+            "service":"good"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"2"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"35%",
+        "menu":{
+            "image":"https://b.zmtcdn.com/data/daily_menus/527/232527/9590e807577fffcc95fe5aa2eb458a85.jpg"
+        },
+        "timings":"10pm-12pm"
+    },
+    {
+        "id":3,
+        "name":"Platform 65",
+        "image":"https://b.zmtcdn.com/data/pictures/4/19274764/be46bd469d6c8f788c8bf08c4ce05977.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"PNR Empire, Kukatpally, Hyderabad",
+        "rating":{
+            "food":"excellent",
+            "service":"nice"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"3"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"15%",
+        "menu":{
+            "image":"https://b.zmtcdn.com/data/menus/764/19274764/795c6d484244e8b9279f4792608cddac.jpg"
+        },
+        "timings":"10pm-11pm"
+    },
+    {
+        "id":4,
+        "name":"Barbeque Holic",
+        "image":"https://b.zmtcdn.com/data/pictures/8/20357948/3143716ae6d4a35db93a9f60096d3e16.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"Kondapur, Hyderabad",
+        "rating":{
+            "food":"good",
+            "service":"awesome"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"4"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"25%",
+        "menu":{
+            "image":""
+        },
+        "timings":"10pm-8pm"
+    },
+    {
+        "id":5,
+        "name":"Flechazo",
+        "image":"https://b.zmtcdn.com/data/pictures/8/20247938/7ddcf8d3c4417adf50ff1210aed295a7.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"PNR Empire, Kukatpally, Hyderabad",
+        "rating":{
+            "food":"brilliant",
+            "service":"very good"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"3"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"30%",
+        "menu":{
+            "image":""
+        },
+        "timings":"9pm-7pm"
+    },
+    {
+        "id":6,
+        "name":"Telugu Aromas",
+        "image":"https://b.zmtcdn.com/data/pictures/9/21182679/17f72a6d86f9f0cfce6eea38b4d935f1.jpg?fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"Kothaguda, Hyderabad",
+        "rating":{
+            "food":"it was very tasty",
+            "service":"awesome"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"5"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"33%",
+        "menu":{
+            "image":"https://b.zmtcdn.com/data/menus/679/21182679/3b722d2af109ca7e1f4c7802c88070de.jpg"
+        },
+        "timings":"8am-4pm"
+    },
+    {
+        "id":7,
+        "name":"Hanok - Seoulful Food",
+        "image":"https://b.zmtcdn.com/data/pictures/9/21691069/a80dcd133d8fdf1e0a7a974370c3fdc9.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"Film Nagar, Hyderabad",
+        "rating":{
+            "food":"excellent",
+            "service":"good"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"2"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"25%",
+        "menu":{
+            "image":"https://b.zmtcdn.com/data/menus/069/21691069/8d99b15ddf36ced1f541561f1a6984fb.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+        },
+        "timings":"10pm-12pm"
+    }, {
+        "id":8,
+        "name":"",
+        "image":"https://b.zmtcdn.com/data/pictures/7/21599787/4ad6d9ecb2060aba503525738719a2b4.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "location":"Manikonda, Hyderabad",
+        "rating":{
+            "food":"excellent",
+            "service":"good"
+        },
+        "dinein":{
+            "tablebooking":[
+                1,2,3,4,5
+            ],
+            "noof guests":"3"
+        },
+        "takeaway":"yes",
+        "prepaid":"",
+        "offers":"15%",
+        "menu":{
+            "image":"https://b.zmtcdn.com/data/menus/787/21599787/ce802ab53a3304b52a71a08abedae0b4.jpg?fit=around%7C200%3A200&crop=200%3A200%3B%2A%2C%2A"
+        },
+        "timings":"10pm-11pm"
+    }
+    
+]
