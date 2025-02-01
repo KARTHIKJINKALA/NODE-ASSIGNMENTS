@@ -1061,7 +1061,7 @@
         {
             "id":41,
             "name":"Cafe 555 & Aqeeq Restaurant",
-            "image":"",
+            "image":"https://b.zmtcdn.com/data/pictures/chains/7/21100497/28a53fda80567035f7d8eaabcdce914b.jpeg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Masab Tank, Hyderabad",
             "rating":{
                 "food":[
@@ -1459,7 +1459,7 @@
                 "food":[
                     "The chicken Biryani here is spicy and flavorful, cooked with authentic spices. Don't miss out on their traditional Irani chai — a perfect end to a delicious meal.",
                     "The Hyderabadi Biryani here was fantastic! Each bite of the tender mutton was a burst of flavor, and the coffee served afterward was just as rich and robust.",
-                    "Had an unforgettable meal here. The mutton Biryani was packed with spices and flavor, and the coffee was the perfect way to end this flavorful feast.",
+                    "Had an unforgettable meal here. The mutton Biryani was packed with spices and flavor, and the coffee was the perfect way to end this flavorful feast."
                 ],
                 "service":"5.0"
             },
@@ -1510,7 +1510,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/chains/6/90376/6c68c52b2b1de4b66bb36c654b80531d.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Ameerpet, Hyderabad",
             "rating":{
-                "food":"excellent",
+                "food":[
+                    "A signature dish from the region, made with tender mutton and the tangy gongura (sorrel) leaves, this dish has a sour and spicy flavor profile.",
+                    "A spicy, dry-fried chicken dish that is cooked with a variety of ground spices, ginger, and garlic, giving it a smoky flavors"
+
+                ],
                 "service":"4.5"
             },
             "dinein":{
@@ -1533,7 +1537,11 @@
             "image":"https://b.zmtcdn.com/data/pictures/5/20277915/f2c35196d1c58b237bd220dfd78778db.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"S D Road, Secunderabad",
             "rating":{
-                "food":"excellent",
+                "food":[
+                    "The cuisine is known for its spicy nature, often using a variety of chilies, pepper, and tangy tamarind. It’s not for the faint-hearted, as the dishes pack a punch with heat.",
+                    "A rich, spicy chicken curry made with ground spices and tamarind, which brings out a unique, sour flavor that pairs well with rice or chapati."
+
+                ],
                 "service":"4.4"
             },
             "dinein":{
@@ -1556,7 +1564,13 @@
             "image":"https://b.zmtcdn.com/data/reviews_photos/ebb/6bbcab40779d37138c3d4ebf3908febb_1447900101.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
             "location":"Road 36, Jubilee Hills, Hyderabad",
             "rating":{
-                "food":"excellent",
+                "food":[
+                    "Idli - Soft, steamed rice cakes served with spicy chutneys like ginger chutney and sambhar.",
+                    "Dosa - A thin, crispy savory pancake made from fermented rice and urad dal batter, often served with spicy chutneys and sambhar.",
+                    "Pesarattu - A savory pancake made from ground green gram, served with ginger chutney and sometimes filled with upma."
+                
+
+                ],
                 "service":"4.5"
             },
             "dinein":{
