@@ -1,12 +1,18 @@
 var express=require("express")
 var fs=require("fs")
 var app=express()
+var cors=require("cors")
+
 var jsonwebtoken=require("jsonwebtoken")
 var seckey="abcd12346ehbduase"
 app.use(express.json())
+app.use(express.urlencoded({ extended: true }));
+app.use(cors())
 
 app.post("/register",(req,res)=>{
-    // console.log(req.body)
+
+    console.log(req.body)
+ 
     fs.writeFile("index.json",JSON.stringify(req.body),(err)=>{
         if(err){
             res.send(err.message)
