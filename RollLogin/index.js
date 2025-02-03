@@ -32,59 +32,56 @@ app.post("/login",(req,res)=>{
            var {username,password}=req.body
            console.log(req.body)
            console.log(filedata)
+           console.log(username,password)
+
 
             var desc= filedata.filter((value)=>{
             return value.username==username  && value.password==password
            })
+           console.log(desc)
 
-           var det=desc.map((value)=>{
-            return value.username 
+           var fileuser=desc.map((value)=>{
+            return value.username
            })
+           console.log(fileuser[0])
 
-           var det1=desc.map((value)=>{
+           var filepass=desc.map((value)=>{
             return value.password
            })
-        //    console.log(det)
-        //    console.log(det1)
-           console.log("username:",username,"password:",password)
-           console.log(det[0],det1[0])
-           var fileuser=det[0]
-           var filepass=det1[0]
+           console.log(filepass[0])
+
+           var fileid=desc.map((value)=>{
+            return value.id
+           })
+           console.log(fileid[0])
+
+           var filerole=desc.map((value)=>{
+            return value.role
+           })
+           console.log(filerole[0])
+
 
          var userCheck=username==fileuser
          var passCheck=password==filepass
-
-
-
-           
 
            console.log(userCheck)
            console.log(passCheck)
            
 
 
-           var userid=filedata.map((value)=>{
-            return value.id
-           })
-           console.log(userid)
-
-           var userole=filedata.map((value)=>{
-            return value.role
-           })
-           console.log(userole)
 
            if(userCheck && passCheck){
             // We are creating the json web token
             // JWT consists of payload and secreatkey
             // Paylaod is an object
           var token=  jsonwebtoken.sign({
-                id:userid
+                id:fileid
             },seckey)
             console.log(token)
 
             res.send({
                 data:"Login succesful",
-                role:userole,
+                // role:filerole,
                 token:token
             })
            }
@@ -92,13 +89,14 @@ app.post("/login",(req,res)=>{
             res.send("Invalid credentials")
            }
 
-
-        // //    if(usercheck)
          
         }
 
     })
 })
+
+
+
 
 
 app.get("/products",(req,res)=>{
@@ -111,46 +109,45 @@ app.get("/products",(req,res)=>{
    var details=jsonwebtoken.verify(token,seckey)
    console.log(details)
 
-//    fs.readFile("./index.json","utf-8",(err,data)=>{
+   fs.readFile("./index.json","utf-8",(err,data)=>{
 
-//        var data1=JSON.parse(data)
-//        console.log(data1)
+       var data1=JSON.parse(data)
+       console.log(data1)
 
-//       var output= data1.filter((value)=> {
-//         return value.id==details.id
-//        })
-    
+      var output= data1.filter((value)=> {
+        return value.id==details.id
+       })
        
-//         console.log(output)
+        console.log(output[0])
 
         
-//     if(output[0].role=="sell"){
-//         fs.readFile("./sell.json",'utf-8',(err,data)=>{
-//             if(err){
-//                 res.send(err.message)
-//             }
-//             else{
-//                 res.send(data)
-//             }
-//         })
-//     }
+    if(output[0].role=="sell"){
+        fs.readFile("./sell.json",'utf-8',(err,data)=>{
+            if(err){
+                res.send(err.message)
+            }
+            else{
+                res.send(data)
+            }
+        })
+    }
 
 
-//     else if(output[0].role=="buy"){
-//         fs.readFile("./buy.json",'utf-8',(err,data)=>{
-//             if(err){
-//                 res.send(err.message)
-//             }
-//             else{
-//                 res.send(data)
-//             }
-//         })
-//     }
+    else if(output[0].role=="buy"){
+        fs.readFile("./buy.json",'utf-8',(err,data)=>{
+            if(err){
+                res.send(err.message)
+            }
+            else{
+                res.send(data)
+            }
+        })
+    }
 
 
-//     else{
-//         res.send("Send correct data")
-//     }
+    else{
+        res.send("Send correct data")
+    }
 
    })
 
@@ -158,7 +155,7 @@ app.get("/products",(req,res)=>{
     // var data=req.body.role
 
     // res.send("This are products")
-// })
+})
 
 
 var port=3008
