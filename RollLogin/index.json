@@ -1,3 +1,11 @@
 
-    {"id":1,"username":"karthik jinkala","password":"Karthik@123","role":"sell"}
+    [
+        {"id":1,"username":"karthik jinkala","password":"Karthik@123","role":"buy"},
+        {"id":2,"username":"Ravi","password":"Ravi@123","role":"sell"},
+        {"id":3,"username":"Akash","password":"Akash@123","role":"sell"}
+
+
+        
+        
+]
 
