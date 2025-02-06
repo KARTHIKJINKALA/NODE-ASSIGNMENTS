@@ -10,11 +10,12 @@
     "openings": 1,
     "jobdesc":"Analyze, develop, enhance, integrate, review, test, and maintain custom components aligned with business and technical requirements,Provide technical advice and guidance to less experienced developers, leveraging your in-depth knowledge.Collaborate within a dynamic team, contributing to teamwork goals amidst competing priorities and evolving workplace practices.",
     "qualification":"Proven experience in software development, with specialization in one or more of the listed technologies.Effective communication and collaboration skills.Strong problem-solving skills and ability to translate business needs into technical solutions.",
-    "industry Type":"",
-    "employment Type":["Full Time", "Permanent"],
+    "industrytype":"",
+    "employmenttype":["Full Time", "Permanent"],
     "education":"Any Graduate",
     "skills":["android","ios","asap","sql","java","devops","linux"],
     "aboutcompany":"A Global Digital Transformation And Consulting Partner Specialized In Application Development, Application Modernization, Cloud Architecture, DevOps and 24x7 Support Services.",
+    "company_size": "201 to 500 Employees",
     "applylink":"https://techstalwartsolution.com/career.html?job_id=z5G7h3l6a1kMvyS65NP3c-aospOzFhCbXpk5TMt9cbg="
 
  },
@@ -29,13 +30,14 @@
     "openings": 1,
     "jobdesc":"Technical resources that are knowledgeable about enterprise systems like SharePoint, HEAT, Managed File Transfer, Survey Monkey, Adobe Sign, Microsoft Dynamics, JavaScript.Functions/features and configures to solve business problems. Should have analysis, design, Identify and communicate business needs and translate business requirements into technical system requirements and build/configure the functionality, assess if internal or external solutions exist or whether new solutions are feasible. Software Development Lifecycle (SDLC), SAFe framework, Azure Devops. Create test cases, test and document custom modifications",
     "qualification":"",
-    "industry Type":"",
-    "employment Type":"",
+    "industrytype":"",
+    "employmenttype":"",
     "education":"Any Graduate",
     "skills":[
         "Configuration Analyst","devops","Javascript","Software development life cycle","Test cases"
     ],
     "aboutcompany":"Infinite is a global leader in next-generation IT services and digital engineering, propelled by Cloud and AI. With over two decades of experience, our team of 16,000+ professionals, operating from more than 20 delivery centers worldwide, are committed to driving significant impacts on the world and shaping the future.",
+    "company_size": "201 to 600 Employees",
     "applylink":"https://sjobs.brassring.com/TGnewUI/Search/home/HomeWithPreLoad?partnerid=26656&siteid=5008&PageType=JobDetails&jobid=32293#jobDetails=32293_5008"
 
  }, {
@@ -49,13 +51,13 @@
     "openings": 2,
     "jobdesc":"Join as a software engineer, develop software solutions, and learn about software development processes while gaining practical experience.",
     "qualification":"",
-    "industry Type":"IT Services & Consulting",
-    "employment Type":"Full Time, Permanent",
+    "industrytype":"IT Services & Consulting",
+    "employmenttype":"Full Time, Permanent",
     "education":"Any Graduate",
     "skills":[
         "software development","javascript","java","software engineering","html","c++","python","project management"
     ],
-    "aboutcompany":"",
+    "aboutcompany":"Not pecified",
     "applylink":""
 
  },
@@ -70,14 +72,15 @@
     "openings":1 ,
     "jobdesc":"As an Associate Information Developer at Precisely, you will play a key role in creating, updating, and maintaining high-quality user assistance content for our software products. Collaborating closely with subject matter experts, product teams, and fellow information developers, you will deliver clear, concise, and user-friendly content that empowers customers to fully utilize our solutions.In this role, you will proactively gather, understand, organize, and present technical information clearly. You should be adept at quickly learning new software and tools and working effectively with a diverse group of subject matter experts. Additionally, you will manage individual projects or deliverables with minimal supervision, ensuring timely and high-quality outcomes",
     "qualification":" Any Graduate ",
-    "industry Type":"Software Product",
-    "employment Type":"Full Time, Permanent",
+    "industrytype":"Software Product",
+    "employmenttype":"Full Time, Permanent",
     "education":"",
     "skills":[
 "Career development","Content management","Technical writing","XML","Subversion"
 
     ],
     "aboutcompany":"We help you to achieve data integrity by ensuring the accuracy, consistency and context of your data. This means you can make better, faster, more confident decisions based on a deeper understanding of data you can trust.",
+    "company_size": "300 to 900 Employees",
     "applylink":"https://www.precisely.com/careers-and-culture/international-jobs/job?gh_jid=4517479005"
 
  },{
@@ -91,13 +94,14 @@
     "openings":1 ,
     "jobdesc":"Acquired by Kaizen Reporting in 2020, Single Rulebook is an integrated software solution that enables users to search, share and manage regulatory rules on one digital platform.Integrated rule maps provide visual guidance for every single article, allowing our clients to understand correlations between regulatory rules without leaving the platform Single Rulebook can be easily integrated into existing policies, systems and controls providing traceability for all regulatory decision making",
     "qualification":" Any Graduate ",
-    "industry Type":"IT Services & Consulting",
-    "employment Type":"",
+    "industrytype":"IT Services & Consulting",
+    "employmenttype":"",
     "education":"",
     "skills":[
         "css","software development","html","aws","javascript","communication skills"
     ],
     "aboutcompany":"CCL leverages its industry expertise to enhance productivity and reduce risks in firms by enabling a competent diverse workforce, increasing cadence and promoting the adoption of automation and A.I. in a sustainable and safe manner.",
+    "company_size": "200 to 500 Employees",
     "applylink":"https://cybernetic-controls.pinpointhq.com/?referred_by=264x2"
 
  },
@@ -121,8 +125,8 @@
     "openings": 1,
     "jobdesc": "We are looking for a Software Engineer with native-level proficiency in speaking Kannada and an interest in creating user-friendly VoiceAI products using C++. You will learn and apply the most advanced technologies in the fields of Natural Language Processing (NLP), Natural Language Understanding (NLU), Natural Language Generation (NLG), speech, and search, all built in-house at SoundHound. Prior experience in these specialized fields is not required.",
     "qualification": "Bachelor’s Degree in Computer Science with at least 2 years of experience as a Software Engineer OR a Master’s Degree in Computer Science.",
-    "industry Type": "IT Services & Consulting",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "IT Services & Consulting",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate, PG: Any Postgraduate",
     "skills": [
         "C++",
@@ -134,6 +138,7 @@
         "Customer Service"
     ],
     "aboutcompany": "As a leading innovator of conversational intelligence, we offer an independent voice AI platform that enables businesses across industries to deliver best-in-class conversational experiences to their customers. Built on proprietary Speech-to-Meaning and Deep Meaning Understanding technologies, SoundHound’s advanced voice AI platform provides exceptional speed and accuracy and enables humans to interact with products and services like they interact with each other—by speaking naturally.",
+    "company_size": "400 to 500 Employees",
     "applylink": "https://job-boards.greenhouse.io/soundhoundinc/jobs/7827551002"
 }
  , {
@@ -153,8 +158,8 @@
     "openings": 1,
     "jobdesc": "Working for Alpha Electronic Controls will suit candidates who like to be and want to play an active part in helping to drive the business forward, with excellent communication, presentation, and organisational skills.",
     "qualification": "Any Graduate, Any Postgraduate",
-    "industry Type": "Industrial Automation",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Industrial Automation",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate, PG: Any Postgraduate",
     "skills": [
         "CVS",
@@ -181,6 +186,7 @@
         "Communication Skills"
     ],
     "aboutcompany": "Alpha Electronic Controls specializes in industrial automation solutions, providing products and services that enhance the efficiency and productivity of manufacturing and industrial processes through advanced control systems.",
+    "company_size": "200 to 500 Employees",
     "applylink": "https://app.pyjamahr.com/careers?company=company&job_id=140952&company_uuid=21287C555C"
 }
 , {
@@ -202,8 +208,8 @@
     "openings": 1,
     "jobdesc": "We are seeking a skilled LeanIX Developer to enhance our Enterprise Architecture Management (EAM) capabilities. The ideal candidate will specialize in developing features and functionalities within the LeanIX platform, focusing on integrations, data modeling, and custom workflows tailored to our organizational needs.",
     "qualification": "Any Graduate, Any Postgraduate",
-    "industry Type": "IT Services & Consulting",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "IT Services & Consulting",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate, PG: Any Postgraduate",
     "skills": [
         "UI Development",
@@ -218,6 +224,7 @@
         "Python"
     ],
     "aboutcompany": "Zensar Technologies",
+    "company_size": "201 to 500 Employees",
     "applylink": "https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/125477"
 },
     {
@@ -234,8 +241,8 @@
         "openings": 1,
         "jobdesc": "We are looking for an Ab Initio Developer to design and build Ab Initio-based applications across Data Integration, Governance & Quality domains for our customer programs. The individual will work with Technical Leads, Senior Solution Engineers, and Application Managers to build applications, support production environments, and ensure program success.",
         "qualification": "Bachelor's Degree in a quantitative field such as Engineering, Computer Science, Statistics, or Econometrics.",
-        "industry Type": "IT Services & Consulting",
-        "employment Type": "Full Time, Permanent",
+        "industrytype": "IT Services & Consulting",
+        "employmenttype": "Full Time, Permanent",
         "education": "UG: Bachelor's Degree",
         "skills": [
             "Ab Initio 3.5.x or 4.0.x",
@@ -264,6 +271,7 @@
             "Microsoft Office"
         ],
         "aboutcompany": "ITI Data specializes in data solutions, offering innovative technologies for enterprise data management, analytics, and governance.",
+    "company_size": "100 to 500 Employees",
         "applylink": [
             "https://www.glassdoor.co.uk/Job/hyderabad-india-sql-developer-jobs-SRCH_IL.0,15_IC2865319_KO16,29.htm"
         ]
@@ -282,8 +290,8 @@
         "openings": 1,
         "jobdesc": "Designing databases and ensuring their stability, reliability, and performance. Designing, creating, and implementing database systems based on user requirements. Developing best practices for database design and development activities.",
         "qualification": "Any Specialization",
-        "industry Type": "Computer Hardware Development",
-        "employment Type": "Full Time, Permanent",
+        "industrytype": "Computer Hardware Development",
+        "employmenttype": "Full Time, Permanent",
         "education": "UG: Any Graduate",
         "skills": [
             "MS SQL programming",
@@ -299,6 +307,7 @@
             "Database objects"
         ],
         "aboutcompany": "Dream Tekis Software is a public company founded in 2006, specializing in computer hardware development and information technology solutions.",
+    "company_size": "100 to 200 Employees",
         "applylink": [
             "https://dreamtekis.com/jobs/sql-developer/"
         ]
@@ -317,8 +326,8 @@
     "openings": 1,
     "jobdesc": "Understand requirements from client and on-site team. Participate in preparing design and data modeling. Comfortable with SQL stored procedures and queries development. Create and maintain ETL packages. Manage SQL Server through multiple product lifecycle environments, from development to critical production systems.",
     "qualification": "Not Specified",
-    "industry Type": "Information Technology Support Services",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Information Technology Support Services",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate",
     "skills": [
         "MSSQL",
@@ -330,6 +339,7 @@
         "SQL Server Management"
     ],
     "aboutcompany": "Wellpoint IT Solutions is a private company founded in 2014, specializing in information technology support services with revenue between $1 to $5 million (USD).",
+    "company_size": "Not Specified",
     "applylink": [
         "https://wpitsolutions.com/careers/"
     ]
@@ -349,8 +359,8 @@
     "openings": 1,
     "jobdesc": "Design, develop, and maintain Kafka-based data pipelines. Implement data ingestion, processing, and storage solutions using Kafka and related technologies. Monitor and optimize Kafka cluster performance, ensuring high availability and reliability. Troubleshoot and resolve issues related to Kafka applications and infrastructure. Participate in code reviews and ensure adherence to best practices in software development.",
     "qualification": "Bachelor's Degree",
-    "industry Type": "Information Technology",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate",
     "skills": [
         "Apache Kafka",
@@ -373,6 +383,7 @@
         "CI/CD"
     ],
     "aboutcompany": "ITI Data is an IT services company providing data management and software development solutions.",
+    "company_size": "Not Specified",
     "applylink": [
         "https://itidatahr.my.salesforce-sites.com/recruit/fRecruit__ApplyJob?vacancyNo=VN505"
     ]
@@ -392,8 +403,8 @@
     "openings": 1,
     "jobdesc": "Design and develop reusable Microservice capabilities that meet customer requirements while upholding high standards of reliability, security, maintainability, and performance. Lead solving complex problems, and support production systems. Identify production and non-production issues, troubleshoot, and optimize applications. Mentor less experienced developers.",
     "qualification": "Bachelor’s / Master’s degree in Computer Science or equivalent work experience",
-    "industry Type": "Healthcare Services & Hospitals",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Healthcare Services & Hospitals",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate",
     "skills": [
         "AWS",
@@ -417,6 +428,7 @@
         "Kafka"
     ],
     "aboutcompany": "Optum is a global organization delivering care supported by technology to help millions of people lead healthier lives. Focused on improving health outcomes and advancing health equity globally.",
+    "company_size": "201 to 500 Employees",
     "applylink": [
         "https://careers.unitedhealthgroup.com/job/21540740/associate-software-engineer-ii-java-springboot-kafka-hyderabad-in/"
     ]
@@ -435,8 +447,8 @@
     "openings": 1,
     "jobdesc": "Responsible for designing, developing, and maintaining software applications and solutions. Work closely with product managers, designers, and engineers to create scalable software solutions. Manage software delivery scope, risk, and timeline. Provide mentorship to junior developers. Involves full-stack development, including front-end and back-end using cloud technology and generative AI.",
     "qualification": "Bachelor’s degree or Diploma in Computer Science, IT, or related field",
-    "industry Type": "Biotech & Pharmaceuticals",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Biotech & Pharmaceuticals",
+    "employmenttype": "Full Time, Permanent",
     "education": "UG: Any Graduate",
     "skills": [
         "Full Stack Software Development",
@@ -478,8 +490,8 @@
     "openings": 1,
     "jobdesc": "As a Full-Stack Developer, you will be responsible for designing, developing, deploying, and maintaining applications. Your role will include backend development with Python (FastAPI), managing complex MySQL databases, building Docker containers, setting up Kubernetes, and developing CI/CD pipelines. You will ensure application performance, security, scalability, and collaborate with cross-functional teams.",
     "qualification": "Not Specified",
-    "industry Type": "Information Technology",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full Time, Permanent",
     "education": "Not Specified",
     "skills": [
         "Python",
@@ -517,8 +529,8 @@
     "openings": 1,
     "jobdesc": "As an Application Developer, you will design, build, and configure applications to meet business process and application requirements. This role involves creating innovative solutions to address business needs, ensuring seamless application functionality, and developing microservices with Spring Boot. Responsibilities include writing unit tests, working with SQL databases (Oracle, MySQL), developing serverless applications using AWS Lambda, and using Docker and Kubernetes for containerization.",
     "qualification": "15 years full-time education",
-    "industry Type": "Information Technology",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full Time, Permanent",
     "education": "15 years full-time education",
     "skills": [
         "Java Full Stack Development",
@@ -560,8 +572,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer, you will work in an Agile team to develop and enhance features and functionalities for the Infor OS cloud platform. Responsibilities include writing clean, efficient, and maintainable code, performing testing, and collaborating with cross-functional teams. You'll also help with process improvements and knowledge sharing while ensuring product quality and adherence to best practices.",
     "qualification": "Undergraduate or Master’s degree in Computer Science or equivalent experience",
-    "industry Type": "Software",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Software",
+    "employmenttype": "Full Time, Permanent",
     "education": "Undergraduate or Master’s degree in Computer Science or equivalent experience",
     "skills": [
         "Java Development",
@@ -597,8 +609,8 @@
     "openings": 1,
     "jobdesc": "As a React.js Developer, you'll be responsible for developing and maintaining modern, responsive, and scalable web applications using React.js. You will collaborate with designers, back-end developers, and other stakeholders to create seamless user interfaces and optimize applications for performance and scalability. Additional responsibilities include state management, writing unit tests, and staying updated on industry trends.",
     "qualification": "Any Degree",
-    "industry Type": "Software",
-    "employment Type": "Full Time, Permanent",
+    "industrytype": "Software",
+    "employmenttype": "Full Time, Permanent",
     "education": "Any Degree",
     "skills": [
         "React.js",
@@ -635,8 +647,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer in Microsoft's Cloud Supply Chain (CSCP) organization, you will be responsible for designing, implementing, and enhancing distributed microservices, focusing on scalability, performance, and sustainability. Your role will involve working on cutting-edge technologies, solving complex problems with large-scale data, and collaborating with cross-functional teams. You will contribute to key deliverables and grow in a fast-paced, agile, and innovative environment.",
     "qualification": "B.Tech or M.Tech in Computer Science or related field or equivalent work experience",
-    "industry Type": "Software",
-    "employment Type": "Full Time",
+    "industrytype": "Software",
+    "employmenttype": "Full Time",
     "education": "B.Tech or M.Tech in Computer Science or related field",
     "skills": [
         "C#", "C++", "Java", "Distributed Systems", "Event-Driven Architectures",
@@ -666,8 +678,8 @@
     "openings": 1,
     "jobdesc": "The Application Developer role at BirlaSoft focuses on utilizing React and other JS frameworks (Angular) to build, integrate, and maintain robust web applications. The role requires a deep understanding of JavaScript and React concepts, such as components and hooks. You will be responsible for integrating native modules, managing state with tools like Mobx State Tree/Redux, and ensuring agile/scrum development methodologies are followed.",
     "qualification": "At least 8 years of experience in React, experience in other JS frameworks, and expertise in state management tools like Mobx and Redux.",
-    "industry Type": "Software",
-    "employment Type": "Full Time",
+    "industrytype": "Software",
+    "employmenttype": "Full Time",
     "education": "Not Specified",
     "skills": [
         "React", "JavaScript", "Angular", "React Concepts", "Components", "Hooks", "Firebase", 
@@ -692,8 +704,8 @@
     "openings": 1,
     "jobdesc": "We are looking for a fantastic Python Developer to join our growing team. The ideal candidate will be responsible for building cloud solutions, focusing on AWS (API Gateway & Lambda), and using Docker for app scalability. Responsibilities include writing maintainable Python code, collaborating on Agile sprints, and mentoring fellow engineers while working with large datasets and Python frameworks like Flask and Django for ML development.",
     "qualification": "Not Specified",
-    "industry Type": "Software",
-    "employment Type": "Full Time",
+    "industrytype": "Software",
+    "employmenttype": "Full Time",
     "education": "Not Specified",
     "skills": [
         "Python", "AWS", "Docker", "API Gateway", "Lambda", "Pytest", "Unit Testing",
@@ -719,8 +731,8 @@
     "openings": 1,
     "jobdesc": "As a Java Backend Developer at PradeepIT Consulting Services, you will be responsible for developing Java-based microservices using Spring Boot. You will work on cloud platforms such as Azure or AWS, with a focus on quality and first-time-right approach. Responsibilities include building componentized user interfaces, working with SQL databases, and collaborating in a fast-paced Agile environment. Experience with Angular, ReactJS, NodeJS, and frontend technologies is a plus.",
     "qualification": "Not Specified",
-    "industry Type": "IT Consulting",
-    "employment Type": "Full Time",
+    "industrytype": "IT Consulting",
+    "employmenttype": "Full Time",
     "education": "Not Specified",
     "skills": [
         "Java", "Spring Boot", "Microservices", "AWS", "Azure", "SQL Databases",
@@ -748,8 +760,8 @@
     "openings": 1,
     "jobdesc": "As an Associate Software Engineer in the PWM Alternatives Engineering Team at Goldman Sachs, you will work on a full-stack Alternatives trading platform, utilizing Java for microservices, and MongoDB for data management. You will collaborate with cross-functional teams and develop highly reliable, performant software systems. The role involves interaction with Angular/React for UI development and working on the software development lifecycle (SDLC) process. You will play an integral role in scaling and evolving the platform for PWM clients.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field",
-    "industry Type": "Investment & Asset Management",
-    "employment Type": "Full Time",
+    "industrytype": "Investment & Asset Management",
+    "employmenttype": "Full Time",
     "education": "Bachelor’s or Master’s degree in Computer Science, Engineering, or related field",
     "skills": [
         "Java", "Microservices", "MongoDB", "Angular", "React", "GitLab", "DevOps", 
@@ -775,8 +787,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer II at LSEG, you will work on developing scalable web services and software applications with a focus on Angular, C#, and .NET Core. The role requires proficiency in Microservices development and experience in Agile SDLC. You'll be responsible for the design, construction, testing, and maintenance of efficient, reusable, and reliable code while ensuring quality through unit testing and automated testing.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science, Engineering, or a related field",
-    "industry Type": "Stock Exchanges",
-    "employment Type": "Full Time",
+    "industrytype": "Stock Exchanges",
+    "employmenttype": "Full Time",
     "education": "Bachelor’s or Master’s degree in Computer Science, Engineering, or related field",
     "skills": [
         "Angular", "C#", ".NET Core", "Microservices", "JavaScript", "TypeScript", "HTML/CSS", 
@@ -802,8 +814,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer II at FactSet, you will maintain and resolve bugs in existing components, contribute new features and refactors, and perform code reviews. The role requires working with Python and its libraries like Pandas and Numpy, handling cloud technologies (AWS), and APIs. You'll collaborate in a Scrum Agile environment, communicate progress in standups, and contribute to the delivery of Ownership data solutions for clients.",
     "qualification": "Bachelor's degree in Computer Science, Information Technology, or equivalent experience",
-    "industry Type": "Investment & Asset Management",
-    "employment Type": "Full Time",
+    "industrytype": "Investment & Asset Management",
+    "employmenttype": "Full Time",
     "education": "Bachelor's degree in Computer Science, Information Technology, or equivalent",
     "skills": [
         "Python", "Pandas", "Numpy", "SQL", "AWS", "Lambda", "EC2", "S3", "AWS Glue", "Object-Oriented Design",
@@ -828,8 +840,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer at HSBC, you will develop reports and dashboards using Qlik Suits, carry out performance optimization on dashboards, maintain master data, and work on data modeling and predictive analytics. You will also automate business-as-usual (BAU) processes to reduce technical/manual debt, and contribute to process and report automation. The role requires expertise in QlikSense, Qlikview, SQL, PL/SQL, and familiarity with Agile and DevOps.",
     "qualification": "Strong experience in BI Reporting, particularly with QlikSense and Qlikview, and other BI tools like Looker",
-    "industry Type": "Banking and Financial Services",
-    "employment Type": "Full Time",
+    "industrytype": "Banking and Financial Services",
+    "employmenttype": "Full Time",
     "education": "10+ years of experience in BI Reporting and related technologies",
     "skills": [
         "QlikSense", "Qlikview", "SQL", "PL/SQL", "BI Reporting", "Data Modelling", "Predictive Analytics", 
@@ -854,8 +866,8 @@
     "openings": 1,
     "jobdesc": "As a Web Development Engineer-I at ADCI HYD 13 SEZ, you will be responsible for developing modern web applications using HTML5, CSS, and JavaScript frameworks like React or Angular. You will translate design mockups, prototypes, and user stories into working applications and focus on improving user experience. The role also involves working with web services technologies, unit testing, and adhering to development best practices in an Agile environment.",
     "qualification": "BS in Computer Science or related field",
-    "industry Type": "Internet & Web Services",
-    "employment Type": "Full Time",
+    "industrytype": "Internet & Web Services",
+    "employmenttype": "Full Time",
     "education": "BS in Computer Science or related field",
     "skills": [
         "HTML5", "CSS", "JavaScript", "React", "Angular", "AWS", "Web Development", "Web Services", 
@@ -880,8 +892,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer, AI/ML at Genesys, you will contribute to the development of the next-generation conversational AI platform. You will work on AI/ML models, Natural Language Understanding (NLU), deep learning frameworks like TensorFlow, PyTorch, and HuggingFace, and help in designing and implementing REST APIs. The role includes collaborating with cross-functional teams, solving technical problems, and improving performance at scale.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science or related field",
-    "industry Type": "Enterprise Software & Network Solutions",
-    "employment Type": "Full Time",
+    "industrytype": "Enterprise Software & Network Solutions",
+    "employmenttype": "Full Time",
     "education": "Bachelor’s or Master’s degree in Computer Science or related field",
     "skills": [
         "Python", "Java", "OOP", "Software Engineering", "AI/ML", "NLP", "Deep Learning", "TensorFlow", 
@@ -906,8 +918,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer at Pegasystems, you will collaborate with a self-organized team to design and develop applications using Pega's low-code platform. You'll contribute to the development of robotics solutions, including designing, implementing, and testing components. Technologies used include Pega, REST Services, Postgres, Oracle, DB2, and Tomcat. You will work in an agile environment, drive product development, and assist with product enhancements.",
     "qualification": "2 - 3 years of Pega Development experience, Bachelor’s degree in Computer Science or related field",
-    "industry Type": "Enterprise Software & Network Solutions",
-    "employment Type": "Full Time",
+    "industrytype": "Enterprise Software & Network Solutions",
+    "employmenttype": "Full Time",
     "education": "Bachelor’s degree in Computer Science or related field",
     "skills": [
         "Pega", "REST Services", "Postgres", "Oracle", "DB2", "Tomcat", "XML", "JSON", "Javascript", "CSS", "HTML"
@@ -931,8 +943,8 @@
     "openings": 1,
     "jobdesc": "As a UI Developer, you will develop componentized user interface micro apps with a focus on quality and performance. You should be proficient in building responsive, dynamic web content using HTML5, CSS3, JavaScript/TypeScript. Experience with React, Node.js, npm, Webpack, Flux, Babel, and state management using Redux or MobX is required. You'll also work with testing frameworks like Jest, Enzyme, and React testing library.",
     "qualification": "Experience in UI development with React, HTML5, CSS3, JavaScript/TypeScript, and state management tools.",
-    "industry Type": "IT Services",
-    "employment Type": "Full Time",
+    "industrytype": "IT Services",
+    "employmenttype": "Full Time",
     "education": "Not specified",
     "skills": [
         "HTML5", "CSS3", "JavaScript", "TypeScript", "React", "Node.js", "npm", "Webpack", "Flux", "Babel", "Redux", "MobX", "Jest", "Enzyme"
@@ -956,8 +968,8 @@
     "openings": 1,
     "jobdesc": "As an SMTS Software Development Engineer at AMD, you will focus on migrating legacy systems to GitHub Cloud, enhancing CI/CD workflows with GitHub Actions, integrating GitHub Actions runners with Kubernetes, implementing code security using CodeQL, and improving the development environment through VSCode extensions. Your expertise in GitHub Cloud, cloud tooling, containerization, C/C++ development, and build systems will be crucial in executing technical initiatives.",
     "qualification": "Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent.",
-    "industry Type": "Semiconductors",
-    "employment Type": "Full Time",
+    "industrytype": "Semiconductors",
+    "employmenttype": "Full Time",
     "education": "Bachelor’s or Master's degree in Computer Science, Computer Engineering, Electrical Engineering, or equivalent.",
     "skills": [
         "GitHub", "Perforce", "CI/CD", "Docker", "Kubernetes", "Cloud Tools", "C/C++", "Python", "Bash", "VSCode", "CodeQL", "Coverity", "Prometheus", "Grafana", "ELK Stack"
@@ -981,8 +993,8 @@
     "openings": 1,
     "jobdesc": "As a Full Stack Developer at SNP Cloud Technologies, you will be responsible for developing and maintaining applications using .NET, React, SQL Server, and other technologies. You will work on both front-end and back-end development, create rich user interfaces, build generic APIs, and optimize database queries. You will also collaborate with the product team and customers, ensure scalability, and integrate Azure Cloud services.",
     "qualification": "Minimum of 4 years’ experience as a .NET full-stack developer.",
-    "industry Type": "Information Technology",
-    "employment Type": "Full Time, Regular, Work from Office",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full Time, Regular, Work from Office",
     "education": "Not mentioned",
     "skills": [
         "C#", "ASP.NET", "MVC", "Web API", ".NET Core", "React.js", "SQL Server", "Azure Functions", "Azure DevOps", "JavaScript", "JQuery", "CSS", "Bootstrap", "Material UI", "Git", "Version Control", "Microservices"
@@ -1006,8 +1018,8 @@
     "openings": 1,
     "jobdesc": "As a Dotnet Developer Analyst, you will be responsible for designing, building, and modifying business-tier components, web applications, and database objects using Microsoft platform technologies like ASP.NET MVC, C#, SQL Server, and Entity Framework. You will also create prototypes, develop front-end and back-end systems, and collaborate with the business team to implement solutions. You will be involved in unit testing, integration testing, and supporting troubleshooting during application deployment.",
     "qualification": "Bachelor's Degree in Computer Science or related field or equivalent experience.",
-    "industry Type": "Information Technology",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full-time",
     "education": "Bachelor's Degree in Computer Science or related field or equivalent experience",
     "skills": [
         "ASP.NET MVC", "C#", "SQL Server", "Entity Framework", "HTML", "CSS", "JavaScript", "jQuery", "Azure", "Cloud", "OOPS", "Design Pattern", "UI Frameworks", "Test-Driven Development", "Continuous Integration"
@@ -1031,8 +1043,8 @@
     "openings": 1,
     "jobdesc": "As a Security Engineer II at Expedia Group, you will be responsible for 24/7 security support, including incident response, monitoring security processes and technologies, and mitigating security risks. You'll work with the leadership team to implement and maintain security standards, respond to security events, and continuously improve security protocols. Additionally, you'll engage in data analysis with security tools, investigate incidents, and develop content for security platforms.",
     "qualification": "Bachelor’s Degree or equivalent experience in Information Security.",
-    "industry Type": "Information Technology",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree or equivalent experience in Information Security",
     "skills": [
         "Security Operations", "Incident Response", "EDR Investigation", "Phishing Email Investigations", "Cloud Platforms (AWS, Azure, GCP)", "WAF", "IDS/IPS", "Full Packet Capture", "Forensics", "SIEM Platforms", "Data Analysis", "Security Policies", "Security Event Monitoring"
@@ -1056,8 +1068,8 @@
     "openings": 1,
     "jobdesc": "As an Associate in Software Packaged Implementation at Northern Trust, you will be responsible for batch monitoring and support, ensuring the stability of production systems, and addressing priority incidents to prevent major issues. Your role involves troubleshooting failures, performing root cause analysis, implementing automation to improve efficiency, and supporting disaster recovery and release testing activities. You will also collaborate with global stakeholders and IT teams to address risks and issues.",
     "qualification": "Bachelor’s Degree in Computer Science or Engineering",
-    "industry Type": "Banking & Lending",
-    "employment Type": "Full-time",
+    "industrytype": "Banking & Lending",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree in Computer Science or Engineering",
     "skills": [
         "Java", "Unix", "SQL", "Oracle Database", "ORMB", "Unix Shell Scripting", "Control-M Scheduling", "Azure DevOps", "Agile", "Programming", "Debugging", "Problem Solving"
@@ -1080,8 +1092,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer I at MiQ, you will develop end-to-end software components and systems, taking ownership of the full development lifecycle. You will work with web application frameworks, Big Data technologies, and CI/CD pipelines. The role involves collaborating with product leads, engineers, data scientists, and other stakeholders to build and improve high-performance systems.",
     "qualification": "Bachelor’s or Master’s degree in Engineering",
-    "industry Type": "Advertising & Public Relations",
-    "employment Type": "Full-time",
+    "industrytype": "Advertising & Public Relations",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s degree in Engineering",
     "skills": [
         "Java", "Kotlin", "C++", "Linux", "REST APIs", "Cloud (AWS, Google Cloud, Azure)", "Object-Oriented Concepts", "Algorithm & Data Structures", "SQL", "Problem Solving"
@@ -1105,8 +1117,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer Intern at Intel, you will ramp up on assigned project technologies and complete a proof of concept (POC) under the guidance of a mentor. This internship will give you an opportunity to work with various technologies and contribute to the Client Computing Group (CCG), which drives business strategy and product development for Intel's PC products and platforms.",
     "qualification": "BS, MS in Computer Science, Systems Engineering, Data Science or equivalent",
-    "industry Type": "Semiconductors",
-    "employment Type": "Internship",
+    "industrytype": "Semiconductors",
+    "employmenttype": "Internship",
     "education": "BS, MS in Computer Science, Systems Engineering, Data Science or equivalent",
     "skills": [
         "Full stack development", "C#", "Python", "Microservices", "MSSQL", "C", "C++", "Windows Application Development"
@@ -1129,8 +1141,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer Intern at Intel, you will ramp up on assigned project technologies and complete a proof of concept (POC) under the guidance of a mentor. This internship will give you an opportunity to work with various technologies and contribute to the Client Computing Group (CCG), which drives business strategy and product development for Intel's PC products and platforms.",
     "qualification": "BS, MS in Computer Science, Systems Engineering, Data Science or equivalent",
-    "industry Type": "Semiconductors",
-    "employment Type": "Internship",
+    "industrytype": "Semiconductors",
+    "employmenttype": "Internship",
     "education": "BS, MS in Computer Science, Systems Engineering, Data Science or equivalent",
     "skills": [
         "Full stack development", "C#", "Python", "Microservices", "MSSQL", "C", "C++", "Windows Application Development"
@@ -1153,8 +1165,8 @@
     "openings": 1,
     "jobdesc": "As an Associate Full Stack Developer at SAP, you will focus on design, coding, automated testing, and quality assurance. You'll gain an understanding of how SAP services are delivered and apply Agile Software Engineering and DevOps principles. You'll collaborate closely with a variety of stakeholders and work with modern technologies to build future-proof products.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science, Engineering, or related fields (BE/BTech, MCA/MTech). Graduates with relevant internship experience are welcome.",
-    "industry Type": "Enterprise Software & Network Solutions",
-    "employment Type": "Full-time",
+    "industrytype": "Enterprise Software & Network Solutions",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s degree in Computer Science, Engineering, or related fields",
     "skills": [
         "Java", "JavaScript", "Python", "Git", "CI/CD pipelines", "AWS", "Azure", "Maven", "Node.js", "Agile methodologies", "DevOps", "Automated testing", "Quality assurance"
@@ -1178,8 +1190,8 @@
     "openings": 1,
     "jobdesc": "As an SDE I - Fullstack at Elevate K-12, you will build scalable, high-performance applications using .NET Core, C#, and modern frontend frameworks (React/Angular/Flutter/Vue). You will develop solutions for personalized, interactive, and engaging instruction to K-12 students. Collaborate with cross-functional teams, write maintainable code, develop tests, and troubleshoot for optimal performance.",
     "qualification": "B.E/B.Tech/Master's in Computer Science (or equivalent). 1 - 3 years of experience in software development.",
-    "industry Type": "Primary & Secondary Schools",
-    "employment Type": "Full-time",
+    "industrytype": "Primary & Secondary Schools",
+    "employmenttype": "Full-time",
     "education": "B.E/B.Tech/Master's in Computer Science (or equivalent)",
     "skills": [
         ".NET Core", "C#", "Java", "GoLang", "React", "Angular", "Flutter", "Vue", "HTML", "CSS", "JavaScript", "TypeScript", "Dart", "RESTful APIs", "GraphQL", "Azure", "AWS", "Microservices"
@@ -1203,8 +1215,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer at Maersk, you will work on scalable web applications using C#, JavaScript/TypeScript, and .NET Core. Your responsibilities will include contributing to full-stack development, building cloud-native architectures, working with microservices, troubleshooting production incidents, and following DevOps methodologies for deployment. You will ensure business solutions are delivered with quality and timely manner while minimizing technical debt.",
     "qualification": "Master’s/Bachelor's in Computer Science, Computer Engineering, or related IT discipline.",
-    "industry Type": "Shipping & Trucking",
-    "employment Type": "Full-time",
+    "industrytype": "Shipping & Trucking",
+    "employmenttype": "Full-time",
     "education": "Master’s/Bachelor's in Computer Science, Computer Engineering, or related IT discipline",
     "skills": [
         "C#", "JavaScript", "TypeScript", "Angular", "React", "Vue", ".NET Core", "EF Core", "SQL Server", "Azure", "AWS", "GCP", "DevOps", "Microservices", "Docker", "Kubernetes", "Unit testing", "Integration testing", "Git"
@@ -1228,8 +1240,8 @@
     "openings": 1,
     "jobdesc": "As part of the Maersk Developer Platform team, you will work on scalable backend systems and infrastructure automation, contributing to Maersk's internal developer ecosystem. Responsibilities include backend service development using Java/Spring, building and deploying containerized applications with Docker and Kubernetes, and API development. For infrastructure, you will design Kubernetes-based infrastructure and optimize CI/CD pipelines using tools like GitHub Actions. You will collaborate with teams to ensure seamless integration and platform reliability.",
     "qualification": "Bachelor's/Master's in Computer Science or related field.",
-    "industry Type": "Shipping & Trucking",
-    "employment Type": "Full-time",
+    "industrytype": "Shipping & Trucking",
+    "employmenttype": "Full-time",
     "education": "Bachelor's/Master's in Computer Science or related field",
     "skills": [
         "Java", "Spring", "Gradle", "Docker", "Kubernetes", "Microservices", "API Design", "CI/CD", "GitHub Actions", "Grafana", "Terraform", "Helm", "Flux"
@@ -1253,8 +1265,8 @@
     "openings": 1,
     "jobdesc": "As a Software Integration Engineer at Tata Technologies, you will review software requirements and architecture specifications, create and maintain the build toolchain and environment, and support development teams. You will work on software architecture integration across different product platforms, using in-house and/or AUTOSAR architecture. Responsibilities include managing CI/CD deployments, generating C-code from MBD, ensuring integration tests, and handling software configuration and release package creation. You'll also ensure adherence to automotive quality standards and participate in project planning.",
     "qualification": "Bachelor's/Master's in Computer Science, Engineering, or related field.",
-    "industry Type": "Automotive & Engineering",
-    "employment Type": "Full-time",
+    "industrytype": "Automotive & Engineering",
+    "employmenttype": "Full-time",
     "education": "Bachelor's/Master's in Computer Science, Engineering, or related field",
     "skills": [
         "CI/CD", "Software Architecture", "AUTOSAR", "MBD", "C-code", "RTE Generation", "MISRA Checks", "SW Documentation", "SW Review"
@@ -1278,8 +1290,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer at YouTube, you will develop and enhance software solutions, write product or system development code, participate in design reviews, and review code from peers. You'll work on debugging and triaging product or system issues, analyzing their sources and resolving them. You will also be expected to contribute to documentation and educational content based on product updates and user feedback.",
     "qualification": "Bachelor’s degree or equivalent practical experience. Master’s degree or PhD preferred. Experience in developing accessible technologies is a plus.",
-    "industry Type": "Internet & Web Services",
-    "employment Type": "Full-time",
+    "industrytype": "Internet & Web Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s/Master’s in Computer Science or related technical field",
     "skills": [
         "Programming", "Data Structures", "Algorithms", "System Design", "Software Development", "Code Reviews", "Debugging", "Documentation"
@@ -1304,8 +1316,8 @@
     "openings": 1,
     "jobdesc": "As a Software Engineer at Zeotap, you will design, develop, and implement products and modules considering performance, scalability, and fault tolerance. You will work with diverse technologies like Business Logic, Big Data, Web Applications, and Event Processing. Your responsibilities also include addressing escalations, consulting internal stakeholders, and using emerging technologies.",
     "qualification": "Bachelor’s or Master’s degree in Information Systems, Computer Science, or related fields preferred.",
-    "industry Type": "Internet & Web Services",
-    "employment Type": "Full-time",
+    "industrytype": "Internet & Web Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s/Master’s in Information Systems, Computer Science or related fields",
     "skills": [
         "Java", "Scala", "Go", "Data Structures", "Algorithms", "NoSQL", "Apache Spark", "Kafka", "Web App Frameworks", "Distributed Systems"
@@ -1329,8 +1341,8 @@
     "openings": 5,
     "jobdesc": "This entry-level role is for candidates eager to apply their technical skills to real-world problems and grow as part of a collaborative team. The role includes assisting in designing, training, and optimizing machine learning models, developing scalable data pipelines, performing exploratory data analysis, and testing models for accuracy and efficiency.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science, Information Technology, or related field.",
-    "industry Type": "Information Technology",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s in Computer Science, Information Technology, or related field",
     "skills": [
         "Python", "NumPy", "Pandas", "Scikit-learn", "TensorFlow", "SQL", "AWS", "GCP", "Azure"
@@ -1354,8 +1366,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The Business Operations Analyst will be responsible for creating, editing, and maintaining configurations of internal and merchant-facing systems, auditing merchant data from a compliance point of view, implementing risk management techniques, and handling financial reconciliation and reporting for merchants.",
     "qualification": "Bachelor's degree in Business Administration, Operations Management, or related field (or equivalent experience).",
-    "industry Type": "Internet & Web Services",
-    "employment Type": "Full-time",
+    "industrytype": "Internet & Web Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor's degree in Business Administration, Operations Management, or related field.",
     "skills": [
         "Attention to Detail", "Organizational Skills", "Communication Skills", "Microsoft Office Suite", "Excel"
@@ -1379,8 +1391,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The Junior Business Analyst will manage live projects, collaborating with project leaders and analysts to analyze data from multiple sources. Responsibilities include building MS Excel databases, creating presentations for clients, and supporting the analysis team to meet client deadlines.",
     "qualification": "A Science/Analytics-based degree in subjects like Chemistry, Physics, Mathematics, Biotechnology, Engineering, etc.",
-    "industry Type": "Pharmaceutical",
-    "employment Type": "Full-time",
+    "industrytype": "Pharmaceutical",
+    "employmenttype": "Full-time",
     "education": "Science/Analytics-based degree (preferably with numerical emphasis).",
     "skills": [
         "Communication Skills", "Multi-tasking", "Excel", "PowerPoint", "Analytical Skills"
@@ -1404,8 +1416,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The Analyst will support the data analytics simplification agenda, focusing on data handling, working with tools such as Python, SQL, Power BI, and Alteryx. The role involves creating high-quality deliverables and building strong stakeholder relationships.",
     "qualification": "BTech, BCA, or any computer science graduate with 1-2 years of Data Analyst experience. Certifications in Data Science preferred.",
-    "industry Type": "Business Consulting",
-    "employment Type": "Full-time",
+    "industrytype": "Business Consulting",
+    "employmenttype": "Full-time",
     "education": "BTech, BCA, or related degree. Data Science certifications preferred.",
     "skills": [
         "Python", "Power BI", "Alteryx", "SQL", "Data Analytics", "Stakeholder Management"
@@ -1429,8 +1441,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The role focuses on providing dedicated support and leading the virtual deal team through the end-to-end contracting process, ensuring effective collaboration with various stakeholders, and ensuring contracts align with Oracle policies and business objectives.",
     "qualification": "Not mentioned",
-    "industry Type": "Enterprise Software & Network Solutions",
-    "employment Type": "Full-time",
+    "industrytype": "Enterprise Software & Network Solutions",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": [
         "Stakeholder Management", "Contract Negotiation", "Sales Enablement", "Oracle Policies", "Communication"
@@ -1455,8 +1467,8 @@
     "openings": "Not mentioned",
     "jobdesc": "You will work as part of a team responsible for building and supporting BCG's multidomain Master Data Management (MDM) solution. This involves platform administration, automation of release management, version control, data connection setup, user access requests, and troubleshooting.",
     "qualification": "Bachelor's degree in information science, data management, computer science, or related field preferred.",
-    "industry Type": "Management and Consulting",
-    "employment Type": "Full-time",
+    "industrytype": "Management and Consulting",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s degree",
     "skills": [
         "Data Management", "SQL", "MDM", "Cloud", "System Administration", "Informatica", "Agile", "Data Security"
@@ -1481,8 +1493,8 @@
     "openings": "Not mentioned",
     "jobdesc": "As an Associate Product Analyst, you will work with clinicians, product analysts, and development teams to analyze clinical content and requirements for products. You will develop and deliver product artefacts, transform business and user requirements into functional specifications, and participate in testing of product releases.",
     "qualification": "Bachelor's degree (preferred), Master's degree with MBA (preferred), and excellent English communication skills.",
-    "industry Type": "Software Development",
-    "employment Type": "Full-time",
+    "industrytype": "Software Development",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s/Master’s degree",
     "skills": [
         "Business Analysis", "Healthcare Industry", "Documentation", "Jiva Product Knowledge", "Analytical Skills", "Communication"
@@ -1507,8 +1519,8 @@
     "openings": "Not mentioned",
     "jobdesc": "As a Business Analyst, you will analyze performance data, provide insights for business improvements, create reports and dashboards, assist with market research, and collaborate with sales leaders to optimize sales operations. You will also work on vendor benchmarking, RFPs, and process standardization to improve efficiency.",
     "qualification": "Bachelor's degree in Business, Economics, Statistics, Mathematics, Computer Science, or related field. Master's degree preferred.",
-    "industry Type": "Information Technology Support Services",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology Support Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s/Master’s degree",
     "skills": [
         "Market Research", "Data Analysis", "SQL", "Excel", "Tableau", "Power BI", "Communication", "Sales Operations"
@@ -1532,8 +1544,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The role involves designing and implementing scalable, robust cloud-based architectures for AI/ML and automation solutions, optimizing cloud infrastructure, leading DevOps practices, and providing technical leadership. Strong experience with containerization (Docker, Kubernetes), cloud architecture (Azure), and solution architecture (Java expertise) is required.",
     "qualification": "Software Engineering Degree or equivalent, certifications in cloud architecture are good to have.",
-    "industry Type": "Financial Transaction Processing",
-    "employment Type": "Full-time",
+    "industrytype": "Financial Transaction Processing",
+    "employmenttype": "Full-time",
     "education": "Bachelor's degree",
     "skills": [
         "Cloud Architecture", "Solution Architecture", "Java", "Docker", "Kubernetes", "Azure", "DevOps", "Data Management", "AI/ML"
@@ -1557,8 +1569,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The role involves designing and implementing AI-driven full stack applications, optimizing performance, and selecting cloud components for deployment. The architect will work closely with data scientists and software engineers to build data pipelines, preprocess utilities, and feature engineering systems. Expertise in Python, cloud platforms like Azure or AWS, and AI/ML models is required.",
     "qualification": "Bachelor’s or Master’s in Computer Science, Engineering, or related field.",
-    "industry Type": "Investment & Asset Management",
-    "employment Type": "Full-time",
+    "industrytype": "Investment & Asset Management",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s Degree",
     "skills": [
         "Python", "Full Stack Development", "AI/ML", "Azure", "AWS", "Cloud Solutions", "Data Pipelines", "Mentorship"
@@ -1582,8 +1594,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Looking for a highly skilled software architect with expertise in C/C++ development, object-oriented design, and performance tuning. Experience in solving complex problems, working with UNIX or Linux, and optimizing software performance is required.",
     "qualification": "BE/BTech/ME/MS/MTech in Computer Science",
-    "industry Type": "Computer Hardware Development",
-    "employment Type": "Full-time",
+    "industrytype": "Computer Hardware Development",
+    "employmenttype": "Full-time",
     "education": "Bachelor's or Master's Degree",
     "skills": [
         "C/C++", "Object-Oriented Design", "Data Structures", "Algorithms", "UNIX/Linux", "Performance Tuning"
@@ -1607,8 +1619,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Architecting solutions for multi-tier applications and web technology. Expertise in Python, PHP, ReactJS, Angular, Airflow, DevOps platforms, Docker, Kubernetes, and Cloud engineering. Managing teams and delivering high-standard products.",
     "qualification": "Overall 8+ years of experience, 5+ years of experience architecting distributed systems",
-    "industry Type": "Information Technology Support Services",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology Support Services",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": [
         "Python", "PHP", "ReactJS", "Angular", "Airflow", "Docker", "Kubernetes", "Cloud Engineering", "APIs", "DevOps"
@@ -1633,8 +1645,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Responsible for defining and overseeing scalable, high-performance software systems. Works with stakeholders to align technical solutions with business needs, implements architectural standards, and guides engineering teams on best practices. Familiar with cloud platforms (AWS, Azure, Google Cloud) and modern technologies like microservices, APIs, and CI/CD pipelines.",
     "qualification": "Proven experience as a software/solutions architect, expertise in cloud platforms and microservices architecture.",
-    "industry Type": "Business Consulting",
-    "employment Type": "Full-time",
+    "industrytype": "Business Consulting",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": [
         "Cloud Platforms (AWS, Azure, Google Cloud)", "Java", ".NET", "Python", "Microservices", "APIs", "RESTful Services", "DevOps", "CI/CD Pipelines", "Docker", "Kubernetes"
@@ -1658,8 +1670,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The Business Analyst will work closely with Legal and Compliance, Audit, and Risk departments to manage the Legal Discovery process, gather business requirements, and coordinate with development teams. The role involves analyzing complex problems, improving business processes, and managing third-party vendor implementations.",
     "qualification": "Bachelor’s degree in computer science, information systems, or related area.",
-    "industry Type": "Investment & Asset Management",
-    "employment Type": "Full-time",
+    "industrytype": "Investment & Asset Management",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree",
     "skills": [
         "Business Analysis", "Project Management", "SQL", "Relational Databases", "Vendor Management", "Problem Solving", "Communication"
@@ -1683,8 +1695,8 @@
     "openings": "Not mentioned",
     "jobdesc": "The role focuses on developing applications for device management across Windows, Mac, and Linux systems. It involves working closely with cloud technologies, OAuth/OIDC for authentication, and contributing to JumpCloud's Device Management services, ensuring high-level security and platform efficiency.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.",
-    "industry Type": "Information Technology Support Services",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology Support Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s Degree",
     "skills": [
         "Go", "Java", "Typescript", "C++", "Golang", "Cloud Technologies (AWS, GCP, Azure)", "MacOS/Windows/Linux Development", "Distributed Systems", "OAuth/OIDC"
@@ -1707,8 +1719,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop applications for device management across Windows, Mac, and Linux systems, focusing on cloud technologies, OAuth/OIDC authentication, and platform security.",
     "qualification": "Bachelor’s or Master’s degree in Computer Science, Engineering, or related field.",
-    "industry Type": "Information Technology Support Services",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology Support Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s Degree",
     "skills": ["Go", "Java", "Typescript", "C++", "Golang", "Cloud Technologies (AWS, GCP, Azure)", "MacOS/Windows/Linux Development", "Distributed Systems", "OAuth/OIDC"],
     "aboutcompany": "JumpCloud provides a unified open directory platform for managing identities, devices, and access across organizations.",
@@ -1729,8 +1741,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop device management apps for Windows, Mac, and Linux, focusing on cloud technologies and security.",
     "qualification": "Bachelor’s/Master’s in CS, Engineering, or related field",
-    "industry Type": "Information Technology Support Services",
-    "employment Type": "Full-time",
+    "industrytype": "Information Technology Support Services",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s or Master’s Degree",
     "skills": ["Go", "Java", "Typescript", "C++", "Golang", "Cloud Technologies (AWS, GCP, Azure)", "MacOS/Windows/Linux Development", "Distributed Systems", "OAuth/OIDC"],
     "aboutcompany": "JumpCloud provides a unified open directory platform for managing identities, devices, and access across organizations.",
@@ -1750,8 +1762,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop real-time financial data products & platform, mentor team, and work on full-stack technologies.",
     "qualification": "Bachelor’s degree in CS, Information Systems or Engineering",
-    "industry Type": "Research and Development",
-    "employment Type": "Full-time",
+    "industrytype": "Research and Development",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree",
     "skills": ["ReactJS", "Typescript", "JavaScript", "C#", "Java", "C++", "SQL", "Webpack", "Jest", "Mocha", "Micro Front End", "Kubernetes", "Docker", "Agile", "Microsoft DevOps"],
     "aboutcompany": "S&P Global provides accurate insights and data solutions, enabling customers to make impactful decisions.",
@@ -1771,8 +1783,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Analyze, design, and implement modular components using Ruby on Rails, JavaScript, jQuery, React, CSS, and HTML.",
     "qualification": "Not specified",
-    "industry Type": "Enterprise Software & Network Solutions",
-    "employment Type": "Full-time",
+    "industrytype": "Enterprise Software & Network Solutions",
+    "employmenttype": "Full-time",
     "education": "Not specified",
     "skills": ["Ruby on Rails", "JavaScript", "jQuery", "React", "CSS", "HTML", "Database Concepts", "Data Structures", "Distributed Systems", "Design Patterns"],
     "aboutcompany": "Cornerstone powers the potential of organizations and their people with AI-powered workforce agility solutions.",
@@ -1792,8 +1804,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop and maintain disaster recovery plans, conduct risk assessments, and implement recovery solutions, while ensuring business continuity.",
     "qualification": "Bachelor’s degree in computer science, Information Technology, or a related field.",
-    "industry Type": "Healthcare Services & Hospitals",
-    "employment Type": "Full-time",
+    "industrytype": "Healthcare Services & Hospitals",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree",
     "skills": ["Disaster Recovery", "Risk Assessments", "Business Continuity", "Backup and Recovery", "IT Infrastructure", "Storage Systems", "Problem-Solving", "Collaboration"],
     "aboutcompany": "Zelis is modernizing the healthcare financial experience by providing a connected platform for healthcare payers, providers, and consumers.",
@@ -1813,8 +1825,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop and maintain disaster recovery plans, conduct risk assessments, and implement recovery solutions, while ensuring business continuity.",
     "qualification": "Bachelor’s degree in computer science, Information Technology, or a related field.",
-    "industry Type": "Healthcare Services & Hospitals",
-    "employment Type": "Full-time",
+    "industrytype": "Healthcare Services & Hospitals",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree",
     "skills": ["Disaster Recovery", "Risk Assessments", "Business Continuity", "Backup and Recovery", "IT Infrastructure", "Storage Systems", "Problem-Solving", "Collaboration"],
     "aboutcompany": "Zelis is modernizing the healthcare financial experience by providing a connected platform for healthcare payers, providers, and consumers.",
@@ -1835,8 +1847,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop advanced solutions for clients, focusing on AI, cloud, and data processing. Collaborate with various partners, provide technical presentations, and help close deals while ensuring the technical feasibility of solutions.",
     "qualification": "Bachelor’s degree in Computer Science, Electrical Engineering, Computer Engineering, or related field.",
-    "industry Type": "Computer Hardware Development",
-    "employment Type": "Full-time",
+    "industrytype": "Computer Hardware Development",
+    "employmenttype": "Full-time",
     "education": "Bachelor’s Degree",
     "skills": ["Pre-Sales", "AI", "Cloud Solutions", "Data Processing", "Technical Presentations", "Problem-Solving", "Customer Feedback", "Solution Architecture"],
     "aboutcompany": "Intel is a global leader in semiconductor solutions, focusing on advancing technologies in cloud services, AI, and data processing.",
@@ -1856,8 +1868,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Assist in tracking, acquiring, and disposing of IT assets. Maintain records, assist with inventories, and support service requests related to IT assets.",
     "qualification": "Strong attention to detail, communication skills, and basic knowledge of IT hardware and software.",
-    "industry Type": "Software Development",
-    "employment Type": "Full-time",
+    "industrytype": "Software Development",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": ["IT Asset Management", "Microsoft Office", "Communication", "Teamwork", "Organizational Skills"],
     "aboutcompany": "Deltek is a global leader providing software and information solutions for project-based businesses.",
@@ -1878,8 +1890,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Design and implement full-stack solutions, lead project delivery, manage client relationships, and mentor teams while utilizing Core Java, Spring, and cloud platforms.",
     "qualification": "Experience with Java Full Stack, delivery management, and client-facing roles.",
-    "industry Type": "Business Consulting",
-    "employment Type": "Full-time",
+    "industrytype": "Business Consulting",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": ["Core Java", "Spring", "Spring Boot", "UNIX", "SQL", "RESTful APIs", "Microservices", "Angular", "AWS", "Azure", "Google Cloud", "CI/CD", "DevOps"],
     "aboutcompany": "Eclerx provides business process outsourcing solutions to clients in multiple industries.",
@@ -1900,8 +1912,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Handle import customs clearance, manage transporter coordination, maintain MIS reports, and manage billing processes.",
     "qualification": "Well-versed with Customs procedures, Acts, and Rules.",
-    "industry Type": "Energy & Utilities",
-    "employment Type": "Full-time",
+    "industrytype": "Energy & Utilities",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": ["Import Custom Clearance", "Transporter Coordination", "MIS Reporting", "Customs Procedures", "Billing Management"],
     "aboutcompany": "Schneider Electric empowers everyone to make the most of their energy and resources, creating a sustainable future.",
@@ -1921,8 +1933,8 @@
     "openings": "Not mentioned",
     "jobdesc": "Develop and maintain backend systems with a focus on performance optimization, database management, and system architecture. Familiarity with event-driven architectures and Kafka is a plus.",
     "qualification": "Proficiency in Java and Python, experience with relational and NoSQL databases.",
-    "industry Type": "Computer Hardware Development",
-    "employment Type": "Full-time",
+    "industrytype": "Computer Hardware Development",
+    "employmenttype": "Full-time",
     "education": "Not mentioned",
     "skills": ["Java", "Python", "Node.js", "Microservices", "Kafka", "MySQL", "PostgreSQL", "MongoDB", "Cassandra", "Git", "AWS", "Azure", "GCP"],
     "aboutcompany": "Tarento Group focuses on technology solutions for businesses, delivering scalable and innovative IT solutions.",

@@ -84,11 +84,11 @@ app.post("/users",async(req,res)=>{
 //     res.send("hello this is the Mongodb")
 // })
 
-// app.get("/users",async (req,res)=>{
-//      let data= await userModel.find()
-//      console.log(data)
+app.get("/users",async (req,res)=>{
+     let data= await userModel.find()
+     console.log(data)
 
-// })
+})
 
 const port=3005
 app.listen(port,()=>{
