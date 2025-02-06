@@ -10,7 +10,83 @@ dbConnect()
 // creating the schema
 // Schema is the blue print of the data in outr database
 const userSchema=new mongoose.Schema({
-    name:String,
+    name:String,const express = require("express");
+const app = express();
+
+const { dbConnect } = require("./Connect.js");
+const { default: mongoose } = require("mongoose");
+
+app.use(express.json());
+
+dbConnect();
+
+// Creating the schema
+// Schema is the blueprint of the data in our database
+const userSchema = new mongoose.Schema({
+  name: String,
+  salary: Number,
+  present_age: Number,
+  city: String, // Added city field
+});
+
+const userModel = mongoose.model("userdetails", userSchema);
+
+const postsSchema = new mongoose.Schema({
+  name: String,
+  age: Number,
+  email: String,
+});
+
+const postModel = mongoose.model("posts", postsSchema);
+
+// Error handling middleware
+app.use((err, req, res, next) => {
+  console.error(err);
+  res.status(500).send("Internal Server Error");
+});
+
+app.get("/posts", async (req, res) => {
+  try {
+    const posts = await postModel.find();
+    res.send(posts);
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.post("/posts", async (req, res) => {
+  try {
+    const newPost = new postModel(req.body);
+    await newPost.save();
+    res.send("Data posted successfully");
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.post("/posts1", async (req, res) => {
+  try {
+    const post = await postModel.create(req.body);
+    res.send("Posted successfully");
+  } catch (error) {
+    next(error);
+  }
+});
+
+app.post("/users", async (req, res) => {
+  try {
+    const newUser = new userModel(req.body);
+    await newUser.save();
+    res.send("Data inserted successfully");
+  } catch (error) {
+    next(error);
+  }
+});
+
+const port = 3006;
+app.listen(port, () => {
+  console.log(`Server started on port ${port}`);
+});
     salary:Number,
     present_age:Number
 })
@@ -90,7 +166,7 @@ app.post("/users",async(req,res)=>{
 
 // })
 
-const port=3005
+const port=3006
 app.listen(port,()=>{
     console.log("Server has been started")
 })
