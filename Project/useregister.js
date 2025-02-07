@@ -3,6 +3,9 @@ var app = express();
 var cors = require("cors");
 var { dbConnect } = require("./regmongo");
 const { default: mongoose } = require("mongoose");
+var jsonwebtoken = require("jsonwebtoken");
+
+var seckey="bhfchyuwiucbaos1624u345"
 
 app.use(cors());
 app.use(express.json());
@@ -15,7 +18,15 @@ const userSchema = new mongoose.Schema({
   role: String,
 });
 
-const userModel = mongoose.model("Useregister", userSchema);
+const userModel = mongoose.model("useregister", userSchema);
+
+const employeSchema=new mongoose.Schema({
+    username:String,
+    password:String,
+    role:String
+})
+
+const empModel=mongoose.model("employedetails",employeSchema)
 
 // app.get("/user",async(req,res)=>{
 
@@ -53,6 +64,88 @@ app.post("/userdetails", async (req, res) => {
     res.status(500).send({ message: "Internal Server Error" });
   }
 });
+
+
+app.post("/login",async(req,res)=>{
+    // console.log(req.body)
+
+    if(req.body.role=="applicant"){
+    var out = await userModel.findOne({ username: req.body.username, password:req.body.password })
+    console.log(out)
+
+    if (!out) {
+        return res.send({ message: "Invalid credentials" });
+    }
+    else{
+         
+    var token = jsonwebtoken.sign(
+        {
+          id:out._id,
+        },
+        seckey
+      );
+      console.log("token application")
+      console.log(token);
+
+      res.send({
+        token:token,
+        message:"Login succesfull",
+        
+      })
+    
+    }
+
+    // var id=out._id
+    // toString()
+    // console.log(id)
+   
+
+    }
+          
+
+    else if(req.body.role=="employe"){
+        console.log("this is admin")
+        console.log("adimn")
+        var out1 = await empModel.findOne({username:req.body.username,password:req.body.password})
+        console.log(out1)
+
+        if (!out1) {
+            return res.send({ message: "Invalid credentials" });
+        }
+        else{
+            
+            var token1 = jsonwebtoken.sign(
+                {
+                  id:out1._id,
+                },
+                seckey
+              );
+              console.log("token1 employe")
+              console.log(token1);
+    
+              res.send({
+                token:token1,
+                message:"Login succesfull"
+              })
+        }
+
+        
+        }
+        else{
+            
+               res.send("No employee with this username and password")
+        }
+    
+
+
+
+
+   
+ 
+
+
+})
+
 
 var port = 3002;
 app.listen(port, () => {
