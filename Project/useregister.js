@@ -87,9 +87,11 @@ app.post("/login",async(req,res)=>{
       console.log("token application")
       console.log(token);
 
+
       res.send({
         token:token,
         message:"Login succesfull",
+        redirecturl:"/Applicant"
         
       })
     
@@ -125,7 +127,9 @@ app.post("/login",async(req,res)=>{
     
               res.send({
                 token:token1,
-                message:"Login succesfull"
+                message:"Login succesfull",
+               redirecturl:"/Employe"
+
               })
         }
 
@@ -135,14 +139,7 @@ app.post("/login",async(req,res)=>{
             
                res.send("No employee with this username and password")
         }
-    
-
-
-
-
-   
  
-
 
 })
 
