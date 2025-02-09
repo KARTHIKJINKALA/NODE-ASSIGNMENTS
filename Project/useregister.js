@@ -84,8 +84,8 @@ app.post("/login",async(req,res)=>{
         },
         seckey
       );
-      console.log("token application")
-      console.log(token);
+      // console.log("token application")
+      // console.log(token);
 
 
       res.send({
@@ -122,8 +122,8 @@ app.post("/login",async(req,res)=>{
                 },
                 seckey
               );
-              console.log("token1 employe")
-              console.log(token1);
+              // console.log("token1 employe")
+              // console.log(token1);
     
               res.send({
                 token:token1,
@@ -141,6 +141,29 @@ app.post("/login",async(req,res)=>{
         }
  
 
+})
+
+
+app.post("/verify-token",(req,res)=>{
+  const authHeader=req.headers.authorization
+  console.log(authHeader)
+  if(!authHeader){
+    res.send({message:"No Token Priovided"})
+  }
+
+  try{
+  const tokenverify=authHeader.split(" ")[1]
+ 
+ 
+    var details = jsonwebtoken.verify(tokenverify, seckey);
+    console.log(details);
+    res.send({valid:true,message:"Valid token",det:details})
+  }
+  catch(error){
+    res.send({valid:false,message:"Invalid token",error:error.message})
+
+  }
+  
 })
 
 
