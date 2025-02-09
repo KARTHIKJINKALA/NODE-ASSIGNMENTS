@@ -4,6 +4,7 @@ var cors = require("cors");
 var { dbConnect } = require("./regmongo");
 const { default: mongoose } = require("mongoose");
 var jsonwebtoken = require("jsonwebtoken");
+const { title } = require("process");
 
 var seckey="bhfchyuwiucbaos1624u345"
 
@@ -166,6 +167,32 @@ app.post("/verify-token",(req,res)=>{
   
 })
 
+const Jobschema=new mongoose.Schema({
+  id:Number,
+  title:String,
+  description:String,
+  companyname:String,
+  openings:Number,
+  salary:String,
+  qualification:String,
+  skills:Array,
+  employmenttype:String,
+  location:String,
+  postdate:String,
+  experience:String
+
+
+})
+// console.log(Jobschema)
+
+const JobsModel=mongoose.model("jobs",Jobschema)
+
+
+app.get("/jobs",async(req,res)=>{
+  const response= await JobsModel.find()
+  res.send(response)
+
+})
 
 var port = 3002;
 app.listen(port, () => {
