@@ -1,15 +1,32 @@
 var express = require("express");
 var app = express();
 var cors = require("cors");
+const multer  = require('multer')
+
+
 var { dbConnect } = require("./regmongo");
 const { default: mongoose } = require("mongoose");
 var jsonwebtoken = require("jsonwebtoken");
 const { title } = require("process");
+const { version } = require("os");
 
 var seckey = "bhfchyuwiucbaos1624u345";
 
 app.use(cors());
 app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
+
+var storagedata=multer.diskStorage({
+  destination:(req,file,cb)=>{
+         cb(null,"./files")
+  },
+  filename:(req,file,cb)=>{
+      cb(null,Date.now()+file.originalname)
+  }
+})
+
+var upload=multer({storage:storagedata})
+
 
 dbConnect();
 
@@ -18,6 +35,14 @@ const userSchema = new mongoose.Schema(
     username: String,
     password: String,
     role: String,
+    name: String,
+    gender:String,
+    email: String,
+    mobile:String,
+    resume:String,
+    skills:String,
+    experience:String
+    
   },
   { strict: false }
 );
@@ -28,6 +53,7 @@ const employeSchema = new mongoose.Schema({
   username: String,
   password: String,
   role: String,
+
 });
 
 const empModel = mongoose.model("employedetails", employeSchema);
@@ -45,7 +71,7 @@ const empModel = mongoose.model("employedetails", employeSchema);
 // users already registered with that name ,if it is same name ,i dont register the user with data,if not
 // username is not find ,then i will update the register details in the collection
 app.post("/userdetails", async (req, res) => {
-  console.log(req.body);
+  // console.log(req.body);
 
   // var out=await userModel.find()
   // console.log(out)
@@ -59,6 +85,7 @@ app.post("/userdetails", async (req, res) => {
         username: req.body.username,
         password: req.body.password,
         role: req.body.role,
+        gender:req.body.gender
       });
       await newPost.save();
       res.send("Succesfully Register");
@@ -77,7 +104,7 @@ app.post("/login", async (req, res) => {
       username: req.body.username,
       password: req.body.password,
     });
-    console.log(out);
+    // console.log(out);
 
     if (!out) {
       return res.send({ message: "Invalid credentials" });
@@ -102,13 +129,13 @@ app.post("/login", async (req, res) => {
     // toString()
     // console.log(id)
   } else if (req.body.role == "employe") {
-    console.log("this is admin");
-    console.log("adimn");
+    // console.log("this is admin");
+    // console.log("adimn");
     var out1 = await empModel.findOne({
       username: req.body.username,
       password: req.body.password,
     });
-    console.log(out1);
+    // console.log(out1);
 
     if (!out1) {
       return res.send({ message: "Invalid credentials" });
@@ -135,7 +162,7 @@ app.post("/login", async (req, res) => {
 
 app.post("/verify-token", (req, res) => {
   const authHeader = req.headers.authorization;
-  console.log(authHeader);
+  // console.log(authHeader);
   if (!authHeader) {
     res.send({ message: "No Token Priovided" });
   }
@@ -178,12 +205,12 @@ console.log("Server listening for incoming requests");
 app.get("/jobsdata", async (req, res) => {
   const response = await JobsModel.find();
   res.send(response);
-  console.log(response);
+  // console.log(response);
 });
 
 app.put("/savedjobs", async (req, res) => {
   try {
-    console.log(req.body);
+    // console.log(req.body);
 
     var verifyuser = jsonwebtoken.verify(req.body.token, seckey);
     const match = verifyuser.id;
@@ -226,12 +253,12 @@ app.put("/savedjobs", async (req, res) => {
 
 app.delete("/savedjobs", async (req, res) => {
   try {
-    console.log(req.body);
+    // console.log(req.body);
 
     // Verify the user using JWT
     var verifyuser = jsonwebtoken.verify(req.body.token, seckey);
     const match = verifyuser.id;
-    console.log("Matched User ID:", match);
+    // console.log("Matched User ID:", match);
 
     // Find the user in MongoDB
     let user = await userModel.findOne({ _id: match });
@@ -311,10 +338,71 @@ app.delete("/savedjobs", async (req, res) => {
 //   // }
 // });
 
-app.get("/getsaved",(req, res) => {
+app.post("/jobsaved",async(req, res) => {
+  console.log("hello")
   console.log(req.body)
+
+  const verifytoken=jsonwebtoken.verify(req.body.token,seckey)
+  const verfiedid=verifytoken.id
+
+  const result=await userModel.findOne({_id:verfiedid})
+  const disp=result.savedjobindex
+  console.log(disp)
+
+  res.send({
+    savedarray:disp,
+    userinfo:{
+      username:result.username,
+      password:result.password
+    },
+    message:"data retrived succesfully"
+  })
   
 });
+
+
+app.post("/userinfo",async(req,res)=>{
+  console.log(req.body)
+
+  const verifytoken=jsonwebtoken.verify(req.body.token,seckey)
+  const verfiedid=verifytoken.id
+
+  const result=await userModel.findOne({_id:verfiedid})
+  // const disp=result.savedjobindex
+  // console.log(disp)
+
+  console.log(result.username,result.password)
+  res.send({
+
+    userinfo:{
+      username:result.username,
+      password:result.password
+    },
+    message:"data retrived succesfully"
+  })
+})
+
+
+
+
+app.post("/updateUser",upload.single("resume"),(req,res)=>{
+  const authHeader = req.headers.authorization;
+  const tokenverify = authHeader.split(" ")[1];
+
+  var details = jsonwebtoken.verify(tokenverify, seckey);
+  console.log(details);
+  console.log(req.body)
+  res.send()
+  
+
+})
+
+
+app.get("/example",async(req,res)=>{
+  const response=await userModel.findOne({username:"Bumrah"})
+  console.log(response)
+  console.log("hello")
+})
 
 var port = 3002;
 app.listen(port, () => {
