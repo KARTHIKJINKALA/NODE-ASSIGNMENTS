@@ -12,18 +12,18 @@ app.use(express.json())
 app.get("/",(req,res)=>{
 
 
-    fs.readFile("./jobsdata.json","utf-8",(err,data)=>{
+    fs.readFile("./duummy.json","utf-8",(err,data)=>{
         if(err){
            res.send( err.message)
         }
         else{
             // console.log(data)
-            res.send(data)
+            res.send(JSON.parse(data))
         }
     })
 
 })
-var port=3010
+var port=3008
 app.listen(port,()=>{
     console.log("Server has been started succesfully")
 })
